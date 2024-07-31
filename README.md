@@ -12,6 +12,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ADITYABAMANE/Leetcode/tree/master/0050-powx-n) |
 | [1014-k-closest-points-to-origin](https://github.com/ADITYABAMANE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0229-majority-element-ii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ADITYABAMANE/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
