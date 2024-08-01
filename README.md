@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/ADITYABAMANE/Leetcode/tree/master/0068-text-justification) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0229-majority-element-ii) |
@@ -104,6 +105,7 @@
 ## String
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/ADITYABAMANE/Leetcode/tree/master/0068-text-justification) |
 | [2727-number-of-senior-citizens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Queue
 |  |
@@ -117,4 +119,8 @@
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ADITYABAMANE/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/ADITYABAMANE/Leetcode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
