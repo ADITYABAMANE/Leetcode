@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ADITYABAMANE/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ADITYABAMANE/Leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/ADITYABAMANE/Leetcode/tree/master/0068-text-justification) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -62,6 +63,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ADITYABAMANE/Leetcode/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/ADITYABAMANE/Leetcode/tree/master/0061-rotate-list) |
 | [0658-find-k-closest-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ADITYABAMANE/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -150,6 +152,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ADITYABAMANE/Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/ADITYABAMANE/Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/ADITYABAMANE/Leetcode/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/ADITYABAMANE/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
