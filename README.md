@@ -15,6 +15,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/ADITYABAMANE/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0870-magic-squares-in-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1014-k-closest-points-to-origin](https://github.com/ADITYABAMANE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ADITYABAMANE/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -28,6 +29,7 @@
 | [0050-powx-n](https://github.com/ADITYABAMANE/Leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/ADITYABAMANE/Leetcode/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0870-magic-squares-in-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1014-k-closest-points-to-origin](https://github.com/ADITYABAMANE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0229-majority-element-ii) |
+| [0870-magic-squares-in-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ADITYABAMANE/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Design
@@ -179,4 +182,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ADITYABAMANE/Leetcode/tree/master/0204-count-primes) |
+## Matrix
+|  |
+| ------- |
+| [0870-magic-squares-in-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/0870-magic-squares-in-grid) |
 <!---LeetCode Topics End-->
