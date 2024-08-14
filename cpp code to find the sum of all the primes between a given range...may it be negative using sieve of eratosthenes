@@ -1,0 +1,54 @@
+#include <iostream>
+#include <vector>
+#include <cmath>
+
+using namespace std;
+
+class Solution {
+public:
+    // Function to calculate the sum of primes in a given range [left, right]
+    int sumPrimesInRange(int left, int right) {
+        // Handle negative left boundary by setting it to 2
+        if (left < 2) left = 2;
+
+        // Adjust for negative ranges
+        if (left < 0 && right < 0) {
+            swap(left, right);
+            left = -left;
+            right = -right;
+        }
+
+        int n = max(abs(left), right) + 1;
+        vector<bool> isprime(n, true);
+        isprime[0] = isprime[1] = false;
+
+        // Sieve of Eratosthenes
+        for (int i = 2; i <= sqrt(n); i++) {
+            if (isprime[i]) {
+                for (int j = i * i; j < n; j += i) {
+                    isprime[j] = false;
+                }
+            }
+        }
+
+        int primesum = 0;
+        for (int k = left; k <= right; k++) {
+            if (k > 1 && isprime[abs(k)]) {
+                primesum += k;
+            }
+        }
+
+        return primesum;
+    }
+};
+
+int main() {
+    int rangeLeft, rangeRight;
+    cin >> rangeLeft >> rangeRight;
+
+    Solution sol;
+    int sum = sol.sumPrimesInRange(rangeLeft, rangeRight);
+
+    cout << "Sum of primes between " << rangeLeft << " and " << rangeRight << ": " << sum << endl;
+    return 0;
+}
