@@ -200,4 +200,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ADITYABAMANE/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
