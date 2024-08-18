@@ -106,6 +106,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/ADITYABAMANE/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/ADITYABAMANE/Leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/ADITYABAMANE/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Database
 |  |
 | ------- |
@@ -182,6 +183,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ADITYABAMANE/Leetcode/tree/master/0061-rotate-list) |
+| [0206-reverse-linked-list](https://github.com/ADITYABAMANE/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ADITYABAMANE/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Enumeration
 |  |
