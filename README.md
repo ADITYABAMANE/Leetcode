@@ -14,6 +14,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0229-majority-element-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/ADITYABAMANE/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0229-majority-element-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0870-magic-squares-in-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ADITYABAMANE/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
