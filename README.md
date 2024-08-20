@@ -74,6 +74,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ADITYABAMANE/Leetcode/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/ADITYABAMANE/Leetcode/tree/master/0061-rotate-list) |
+| [0443-string-compression](https://github.com/ADITYABAMANE/Leetcode/tree/master/0443-string-compression) |
 | [0658-find-k-closest-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ADITYABAMANE/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
@@ -144,6 +145,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/ADITYABAMANE/Leetcode/tree/master/0044-wildcard-matching) |
 | [0068-text-justification](https://github.com/ADITYABAMANE/Leetcode/tree/master/0068-text-justification) |
+| [0443-string-compression](https://github.com/ADITYABAMANE/Leetcode/tree/master/0443-string-compression) |
 | [2727-number-of-senior-citizens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Queue
 |  |
