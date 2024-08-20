@@ -121,6 +121,7 @@
 ## Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ADITYABAMANE/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
@@ -135,6 +136,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ADITYABAMANE/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## String
@@ -213,4 +215,8 @@
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/1916-find-center-of-star-graph) |
+## Depth-First Search
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
