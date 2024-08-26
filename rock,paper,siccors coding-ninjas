@@ -1,0 +1,113 @@
+Problem statement
+Nezuko and Zenitsu were playing Rock Paper Scissors which is a very popular game where each player can do three moves which are: ‘Rock’, ‘Paper’ and ‘Scissor’.
+
+The winner of a game is decided in the following way:
+
+‘Rock’ beats ‘Scissor’.
+
+‘Scissor’ beats ‘Paper’.
+
+‘Paper’ beats ‘Rock’.
+
+If both players make the same move like ‘Rock’ is made by both person then that result in a draw and whose point will not be rewarded to anyone.
+
+Now you have been provided with two strings representing the moves that they will make for ‘NEZUKO’ represents Nezuko’s string and ‘ZENITSU’ represents Zenitsu’s moves.
+
+In the string ‘R’ represents ‘ROCK’ and ‘P’ represents ‘PAPER’ and ‘S’ represents ‘SCISSORS’.
+
+There is a total of ‘K’ games that will be played and the player will play the move by traversing the string provided. If a player reaches the end of the string then his next moves will be played from the start of the string.
+
+You have to tell the number of games won by Nezuko and the number of games won by Zenitsu respectively in order.
+
+Example:
+Input: ‘K’ = 3, ‘NEZUKO’ = ‘RP’, ‘ZENITSU’ = ‘R’
+Output: 1 0
+Game 1: ‘NEZUKO’ = ‘R’, ‘ZENITSU’ =  ‘R’, Result = ‘Draw’.
+Game 2: ‘NEZUKO’ = ‘P’, ‘ZENITSU’ = ‘R’, Result = ‘Nezuko won the game’.
+Game 3: ‘NEZUKO’ = ‘R’, ‘ZENITSU’ =  ‘R’, Result = ‘Draw’.
+Detailed explanation ( Input/output format, Notes, Images )
+Constraints :
+1 <= T <= 10 
+1 <= K <= 10^5
+1<= |NEZUKO| <= 10^5
+1<= |ZENITSU| <= 10^5
+Strings contain only 3 types of values ‘R’, ‘P’ and ‘S’.
+Time Limit: 1 sec
+Sample Input 1 :
+2
+3
+RP
+R
+4
+PRSP
+RPSR
+Sample Output 1 :
+1 0
+2 1
+Explanation Of Sample Input 1 :
+For test case 1: 
+Game 1: ‘NEZUKO’ = ‘R’, ‘ZENITSU’ =  ‘R’, Result = ‘Draw’.
+Game 2: ‘NEZUKO’ = ‘P’, ‘ZENITSU’ = ‘R’, Result = ‘Nezuko won the game’.
+Game 3: ‘NEZUKO’ = ‘R’, ‘ZENITSU’ =  ‘R’, Result = ‘Draw’.
+
+For test case 2:
+Game 1: ‘NEZUKO’ = ‘P’, ‘ZENITSU’ = ‘R’, Result = ‘Nezuko won the game’.
+Game 2: ‘NEZUKO’ = ‘R’, ‘ZENITSU’ = ‘P’, Result = ‘Zenitsu won the game’.
+Game 3: ‘NEZUKO’ = ‘S’, ‘ZENITSU’ = ‘S’, Result = ‘Draw’.
+Game 4: ‘NEZUKO’ = ‘P’, ‘ZENITSU’ = ‘R’, Result = ‘Nezuko won the game’.
+Sample Input 2 :
+2
+4
+RPSPSRPSR
+SPRPSRPPRSR
+6
+RPSPRSPS
+RPS
+Sample Output 2 :
+1 1
+1 1   
+
+
+solution :
+#include <bits/stdc++.h> 
+using namespace std;
+
+vector<int> rockPaperScissor(int k, string nezuko, string zenitsu) {
+    
+    int n_size = nezuko.size();
+    int z_size = zenitsu.size();
+
+    
+    int nezuko_wins = 0;
+    int zenitsu_wins = 0;
+
+   
+    for (int i = 0; i < k; i++) {
+       
+        char n_move = nezuko[i % n_size];
+        char z_move = zenitsu[i % z_size];
+        //Modulo Operation: i % n_size and i % z_size ensure that when i (the game number) exceeds the length of either string, the indexing wraps around and 
+        //starts from the beginning of the string again.
+
+        
+        if (n_move == z_move) {
+            continue;
+        }
+        
+        else if ((n_move == 'R' && z_move == 'S') || 
+                 (n_move == 'S' && z_move == 'P') || 
+                 (n_move == 'P' && z_move == 'R')) {
+            nezuko_wins++;
+        }
+       
+        else {
+            zenitsu_wins++;
+        }
+    }
+
+    
+    vector<int> wins;
+    wins.push_back(nezuko_wins);
+    wins.push_back(zenitsu_wins);
+    return wins;
+}
