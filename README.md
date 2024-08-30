@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ADITYABAMANE/Leetcode/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/ADITYABAMANE/Leetcode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/ADITYABAMANE/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/ADITYABAMANE/Leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/ADITYABAMANE/Leetcode/tree/master/0068-text-justification) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -47,6 +48,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ADITYABAMANE/Leetcode/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/ADITYABAMANE/Leetcode/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0229-majority-element-ii) |
@@ -91,6 +93,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ADITYABAMANE/Leetcode/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0870-magic-squares-in-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -144,6 +147,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/ADITYABAMANE/Leetcode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/ADITYABAMANE/Leetcode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/ADITYABAMANE/Leetcode/tree/master/0068-text-justification) |
 | [0443-string-compression](https://github.com/ADITYABAMANE/Leetcode/tree/master/0443-string-compression) |
 | [2727-number-of-senior-citizens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2727-number-of-senior-citizens) |
