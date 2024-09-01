@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ADITYABAMANE/Leetcode/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/ADITYABAMANE/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ADITYABAMANE/Leetcode/tree/master/0049-group-anagrams) |
@@ -93,6 +94,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ADITYABAMANE/Leetcode/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
