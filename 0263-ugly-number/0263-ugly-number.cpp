@@ -11,6 +11,7 @@ public:
             }
 
         }
-        return (n==1);
+        if(n==1)return true;
+        else{return false;}
     }
 };
