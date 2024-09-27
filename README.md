@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ADITYABAMANE/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/ADITYABAMANE/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ADITYABAMANE/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ADITYABAMANE/Leetcode/tree/master/0049-group-anagrams) |
@@ -53,6 +54,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ADITYABAMANE/Leetcode/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/ADITYABAMANE/Leetcode/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -81,6 +83,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ADITYABAMANE/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/ADITYABAMANE/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ADITYABAMANE/Leetcode/tree/master/0061-rotate-list) |
 | [0443-string-compression](https://github.com/ADITYABAMANE/Leetcode/tree/master/0443-string-compression) |
