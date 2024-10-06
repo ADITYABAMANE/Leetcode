@@ -43,6 +43,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0870-magic-squares-in-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1014-k-closest-points-to-origin](https://github.com/ADITYABAMANE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/ADITYABAMANE/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Divide and Conquer
 |  |
 | ------- |
