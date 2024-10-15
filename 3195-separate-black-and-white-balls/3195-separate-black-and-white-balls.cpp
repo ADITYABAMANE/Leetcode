@@ -5,7 +5,7 @@ public:
         int black=0;
         for(int i=0;i<s.length();i++){
             if(s[i]=='0'){
-                swap+=black;
+                swap+=(long long)black;
 
             }
             else{
