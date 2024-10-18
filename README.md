@@ -91,6 +91,7 @@
 | [0015-3sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/ADITYABAMANE/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ADITYABAMANE/Leetcode/tree/master/0061-rotate-list) |
+| [0392-is-subsequence](https://github.com/ADITYABAMANE/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ADITYABAMANE/Leetcode/tree/master/0443-string-compression) |
 | [0658-find-k-closest-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ADITYABAMANE/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -175,6 +176,7 @@
 | [0049-group-anagrams](https://github.com/ADITYABAMANE/Leetcode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/ADITYABAMANE/Leetcode/tree/master/0068-text-justification) |
 | [0242-valid-anagram](https://github.com/ADITYABAMANE/Leetcode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/ADITYABAMANE/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/ADITYABAMANE/Leetcode/tree/master/0443-string-compression) |
 | [0692-top-k-frequent-words](https://github.com/ADITYABAMANE/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -205,6 +207,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ADITYABAMANE/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ADITYABAMANE/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/ADITYABAMANE/Leetcode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/ADITYABAMANE/Leetcode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/ADITYABAMANE/Leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 ## Greedy
