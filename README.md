@@ -185,6 +185,7 @@
 | [0392-is-subsequence](https://github.com/ADITYABAMANE/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/ADITYABAMANE/Leetcode/tree/master/0443-string-compression) |
+| [0551-student-attendance-record-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0692-top-k-frequent-words](https://github.com/ADITYABAMANE/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [2727-number-of-senior-citizens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3195-separate-black-and-white-balls](https://github.com/ADITYABAMANE/Leetcode/tree/master/3195-separate-black-and-white-balls) |
