@@ -101,6 +101,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ADITYABAMANE/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ADITYABAMANE/Leetcode/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/ADITYABAMANE/Leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/ADITYABAMANE/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ADITYABAMANE/Leetcode/tree/master/0443-string-compression) |
 | [0658-find-k-closest-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -192,6 +193,7 @@
 | [0044-wildcard-matching](https://github.com/ADITYABAMANE/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/ADITYABAMANE/Leetcode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/ADITYABAMANE/Leetcode/tree/master/0068-text-justification) |
+| [0125-valid-palindrome](https://github.com/ADITYABAMANE/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ADITYABAMANE/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/ADITYABAMANE/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/0394-decode-string) |
