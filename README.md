@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ADITYABAMANE/Leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/ADITYABAMANE/Leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/ADITYABAMANE/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ADITYABAMANE/Leetcode/tree/master/0268-missing-number) |
@@ -232,6 +233,7 @@
 | [0042-trapping-rain-water](https://github.com/ADITYABAMANE/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/ADITYABAMANE/Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/ADITYABAMANE/Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ADITYABAMANE/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ADITYABAMANE/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/ADITYABAMANE/Leetcode/tree/master/0322-coin-change) |
@@ -306,6 +308,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ADITYABAMANE/Leetcode/tree/master/1013-fibonacci-number) |
 ## Union Find
 |  |
