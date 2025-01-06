@@ -43,6 +43,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ADITYABAMANE/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/ADITYABAMANE/Leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ADITYABAMANE/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ADITYABAMANE/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2727-number-of-senior-citizens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Math
 |  |
@@ -214,6 +215,7 @@
 | [0443-string-compression](https://github.com/ADITYABAMANE/Leetcode/tree/master/0443-string-compression) |
 | [0551-student-attendance-record-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0692-top-k-frequent-words](https://github.com/ADITYABAMANE/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ADITYABAMANE/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2727-number-of-senior-citizens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3195-separate-black-and-white-balls](https://github.com/ADITYABAMANE/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Queue
@@ -323,4 +325,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ADITYABAMANE/Leetcode/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ADITYABAMANE/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 <!---LeetCode Topics End-->
