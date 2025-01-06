@@ -13,7 +13,7 @@ public:
                     continue;
                 }
 
-                if( i!=currbox && boxes[i]!='0'){
+                if(boxes[i]!='0'){
                     indexmove+=abs(currbox-i);
                 }
 
