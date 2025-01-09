@@ -19,6 +19,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ADITYABAMANE/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/ADITYABAMANE/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/ADITYABAMANE/Leetcode/tree/master/0164-maximum-gap) |
+| [0200-number-of-islands](https://github.com/ADITYABAMANE/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/ADITYABAMANE/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0229-majority-element-ii) |
@@ -292,6 +293,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ADITYABAMANE/Leetcode/tree/master/0200-number-of-islands) |
 | [0870-magic-squares-in-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/0870-magic-squares-in-grid) |
 ## Backtracking
 |  |
@@ -310,12 +312,14 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/ADITYABAMANE/Leetcode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ADITYABAMANE/Leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/ADITYABAMANE/Leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/ADITYABAMANE/Leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/ADITYABAMANE/Leetcode/tree/master/0547-number-of-provinces) |
 ## Trie
@@ -331,6 +335,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ADITYABAMANE/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/ADITYABAMANE/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ADITYABAMANE/Leetcode/tree/master/0547-number-of-provinces) |
 ## Bit Manipulation
 |  |
