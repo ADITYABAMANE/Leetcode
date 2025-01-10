@@ -4,8 +4,7 @@ public:
         string newstr="";
         for(char ch:s){
             if(ch=='*'){
-                if(!newstr.empty()){
-                newstr.pop_back();}
+                newstr.pop_back();
 
             }
             else{
