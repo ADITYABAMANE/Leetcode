@@ -186,6 +186,7 @@
 | [0042-trapping-rain-water](https://github.com/ADITYABAMANE/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/0394-decode-string) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2470-removing-stars-from-a-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -226,6 +227,7 @@
 | [0692-top-k-frequent-words](https://github.com/ADITYABAMANE/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ADITYABAMANE/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ADITYABAMANE/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2470-removing-stars-from-a-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3195-separate-black-and-white-balls](https://github.com/ADITYABAMANE/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Queue
@@ -244,6 +246,7 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/ADITYABAMANE/Leetcode/tree/master/0068-text-justification) |
+| [2470-removing-stars-from-a-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
