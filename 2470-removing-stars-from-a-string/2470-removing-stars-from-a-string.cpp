@@ -2,14 +2,15 @@ class Solution {
 public:
     string removeStars(string s) {
         string newstr="";
-        for(char ch:s){
-            if(ch=='*'){
-                newstr.pop_back();
-
+        for(int i=0;i<s.length();i++){
+            if(s[i]!='*'){
+                newstr+=s[i];
             }
             else{
-            newstr+=ch;}
+            newstr.pop_back();}
+
         }
         return newstr;
+        
     }
 };
