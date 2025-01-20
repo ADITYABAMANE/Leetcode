@@ -1,56 +1,42 @@
 class Solution {
-
-    private: 
-    bool dfscheck(int node,vector<int> adj[] ,vector<int>&pathvis,vector<int>&vis){
-        vis[node]=1;
-        pathvis[node]=1;
-        for(auto it:adj[node]){
-            if(!vis[it]){
-                if(dfscheck(it,adj,pathvis,vis)){
+private:
+    bool iscycle(int node, vector<vector<int>>& adj, vector<bool>& visited, vector<bool>& stack) {
+        stack[node] = true;
+        if (!visited[node]) {
+            visited[node] = true;
+            for (auto it : adj[node]) {
+                if (!visited[it] && iscycle(it, adj, visited, stack)) {
                     return true;
                 }
-               
-
+                if (stack[it]) {
+                    return true;
+                }
             }
-             else if(pathvis[it]){
-                    return true;
-
-                }
-
-
         }
-
-
-
-
-
-
-        pathvis[node]=0;
+        stack[node] = false;
         return false;
-
-
     }
-
-
-
-
 
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<int>vis(numCourses,0);
-         vector<int>pathvis(numCourses,0);
-         vector<int> adj[numCourses];
-         for(auto it:prerequisites){
-             adj[it[1]].push_back(it[0]);
-         }
+       
+        vector<vector<int>> adj(numCourses);
+        
+        
+        for (auto it : prerequisites) {
+            adj[it[1]].push_back(it[0]);
+        }
+        
+        
+        vector<bool> visited(numCourses, false);
+        vector<bool> stack(numCourses, false);
 
-
-         for(int i=0;i<numCourses;i++){
-            if(!vis[i]){
-                if(dfscheck(i,adj,vis,pathvis))return false;
+        
+        for (int i = 0; i < numCourses; i++) {
+            if (!visited[i] && iscycle(i, adj, visited, stack)) {
+                return false; 
             }
-         }
-         return true;
-
+        }
+        return true; 
     }
 };
