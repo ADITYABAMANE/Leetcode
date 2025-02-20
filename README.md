@@ -15,6 +15,7 @@
 | [0049-group-anagrams](https://github.com/ADITYABAMANE/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/ADITYABAMANE/Leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/ADITYABAMANE/Leetcode/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/ADITYABAMANE/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ADITYABAMANE/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -153,6 +154,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ADITYABAMANE/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/ADITYABAMANE/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ADITYABAMANE/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ADITYABAMANE/Leetcode/tree/master/0242-valid-anagram) |
@@ -314,6 +316,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ADITYABAMANE/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/ADITYABAMANE/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ADITYABAMANE/Leetcode/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/0870-magic-squares-in-grid) |
