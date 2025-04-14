@@ -2,21 +2,20 @@ class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
         sort(nums.begin(),nums.end());
-        int missingnumber=1;
+        int missno=1;
+
         for(int num:nums){
             if(num>0){
-                if(missingnumber==num){
-                    missingnumber++;
+                if(missno==num){
+                    missno++;
                 }
-                else if(num>missingnumber){
+                else if(num>missno){
                     break;
-
                 }
-
             }
 
         }
-        return missingnumber;
+        return missno;
         
     }
 };
