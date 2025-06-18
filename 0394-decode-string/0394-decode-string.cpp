@@ -1,71 +1,67 @@
 class Solution {
 public:
     string decodeString(string s) {
-        stack<char>st;
+
+        stack<string>st;
 
         for(int i=0;i<s.length();i++){
+            //push everthing onto the stack until you get ']'
 
-            if(s[i]==']'){
-                string ans="";
-                while(st.size()>0 && st.top()!='['){
-                   ans=st.top()+ans;
-                   st.pop();
+           if( s[i]!=']' ){
+                st.push(string(1,s[i]));}
+            //storing the string inside the brackets into substr
+            
+            else
+            {
+                string substr="";
+                while(!st.empty() && st.top()!="["){
+                substr=st.top()+substr;
+                st.pop();
+
+            }
+            //popping out the '['
+            if(!st.empty() && st.top()=="["){
+                st.pop();
+            }
+            //now we go for the digits
+            string number="";
+            while(!st.empty() && isdigit(st.top()[0])){
+                number=st.top()+number;
+                st.pop();}
+
+            //covert string number to integer
+            int num=stoi(number);
+            //construct the repeated string
+            string repeated="";
+            for(int i=0;i<num;i++){
+                repeated+=substr;
+
+
+            }    
+            //push back the repeated string into the stack again
+            st.push(repeated);
 
 
 
-                    }
-                if(!st.empty() && st.top()=='['){
-                    st.pop();
-                }
-                //extracting the number
-                string number="";
-                while(st.size()>0 && isdigit(st.top())){
-                    number=st.top()+number;
-                    st.pop();
-                }
-                int nomber=stoi(number);
-                string temp=ans;
-                for(int j=1;j<nomber;j++){
-                    ans=ans+temp;
+            
 
-                    
-                }
-                for(char c:ans){
-                    st.push(c);
-                }
-                ans="";
+
+
+
+
 
 
 
             }
-            else{
-                st.push(s[i]);
-            }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
         }
-        string res="";
-        while(st.size()>0){
-            res=st.top()+res;
+        //we have our answer in repeated string inside the stack;
+        string result="";
+        while(!st.empty()){
+            result=st.top()+result;
             st.pop();
         }
-        return res;
-       
+        return result;
         
-        
-
-
     }
 };
