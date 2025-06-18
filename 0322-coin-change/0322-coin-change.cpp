@@ -1,40 +1,19 @@
 class Solution {
 public:
+     long noofcoins(int ind, int target, vector<int>& coins) {
+        if (ind < 0) return INT_MAX;
+        if (target == 0) return 1;
 
-    int solveRec(vector<int>& coins, int amount,vector<int>&dp){
-        if(amount==0)return 0;
-        if(amount<0)return INT_MAX;
-        int mini=INT_MAX;
-        if(dp[amount]!=-1)return dp[amount];
-         
+        long take = 0;
+        if (coins[ind] <= target)
+            take = 1+ noofcoins(ind, target - coins[ind], coins);  // take same coin again
 
-        for(int i=0;i<coins.size();i++){
-            int ans=solveRec(coins, amount-coins[i],dp);
-            if(ans!=INT_MAX){
-                 mini=min(mini,1+ans);
-                 
-            }
-        }
-        return dp[amount]=mini;
-
-
+        long nottake = noofcoins(ind - 1, target, coins);       // skip current coin
         
-       
-
+        return min(take , nottake);
     }
-
-
-
-
     int coinChange(vector<int>& coins, int amount) {
-        // int ans=solveRec(coins,amount);
-        // if(ans==INT_MAX)return -1;
-        // return ans;
-        vector<int>dp(amount+1,-1);
-        int ans=solveRec(coins,amount,dp);
-
-        if(ans==INT_MAX)return -1;
-        return ans;
-        
+         int n = coins.size();
+        return noofcoins(n - 1, amount, coins);
     }
 };
