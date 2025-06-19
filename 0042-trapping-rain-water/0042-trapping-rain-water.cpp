@@ -4,32 +4,28 @@ public:
         int n=height.size();
         int left=0;
         int right=n-1;
-        int water=0;
-        
-        if(height.empty()){
-            return 0;
-        }
         int leftmax=height[left];
         int rightmax=height[right];
+
+        if(height.empty())return 0;
+        int water=0;
+
         while(left<right){
             if(leftmax<rightmax){
-                left+=1;
+                left++;
                 leftmax=max(leftmax,height[left]);
-                water+=leftmax-height[left];
+                water+=(leftmax-height[left]);
+
 
             }
-
             else{
-                right-=1;
+                right--;
                 rightmax=max(rightmax,height[right]);
-                water+=rightmax-height[right];
-
-
-
+                water+=(rightmax-height[right]);
             }
         }
+
         return water;
-       
         
     }
 };
