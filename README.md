@@ -37,6 +37,7 @@
 | [0322-coin-change](https://github.com/ADITYABAMANE/Leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/ADITYABAMANE/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0403-frog-jump](https://github.com/ADITYABAMANE/Leetcode/tree/master/0403-frog-jump) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -298,6 +299,7 @@
 | [0213-house-robber-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/ADITYABAMANE/Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ADITYABAMANE/Leetcode/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/ADITYABAMANE/Leetcode/tree/master/0403-frog-jump) |
 | [0518-coin-change-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/ADITYABAMANE/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
