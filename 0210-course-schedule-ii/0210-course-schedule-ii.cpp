@@ -1,29 +1,30 @@
 class Solution {
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        int n=numCourses;
-        vector<vector<int>>adj(n);
-       
+        int  n=numCourses;
 
-        //building the adjacency list
-        for(auto it:prerequisites){
+        vector<vector<int>>adj(n);
+
+        //build adjacency list
+        for(auto it:prerequisites )
+        {
             adj[it[1]].push_back(it[0]);
         }
-
-        //calculate indegrre of each node
         vector<int>indegree(n);
-       for(int i=0;i<n;i++){
-        for(auto it:adj[i]){
-            indegree[it]++;
-        }
-       }
-       //check if indegree zero,,,then push the node into the ququq
-        queue<int>q;
+        //calculating indegree of each element
         for(int i=0;i<n;i++){
+            for(auto it:adj[i]){
+                indegree[it]++;
+            }}
+
+        //the elemts with indegree 0 are alreday push out from the queue
+        queue<int>q;
+        for(int i=0;i<n;i++) {
             if(indegree[i]==0){
                 q.push(i);
             }
-        }
+        } 
+        //creating topo vcetor
         vector<int>topo;
         while(!q.empty()){
             int node=q.front();
@@ -37,11 +38,18 @@ public:
                     q.push(it);
                 }
             }
+
         }
-         if (topo.size() == numCourses) 
-    return topo;
-else 
-    return {};
+
+        if(topo.size()==n)return topo;
+        return {};
+
+
+
+
+
+        
+
         
     }
 };
