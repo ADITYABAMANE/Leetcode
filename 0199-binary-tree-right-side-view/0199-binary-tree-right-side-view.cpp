@@ -11,44 +11,26 @@
  */
 class Solution {
 public:
+    void preorder(TreeNode* node,vector<int>&res, int level){
 
-    void preorder(TreeNode* node,int depth,vector<int>&res){
-        if(node==NULL)return;
-
-
-        if(res.size()<depth){
+        if(node==NULL)return ;
+        if(res.size()<level){
             res.push_back(node->val);
+
         }
-         preorder(node->right,depth+1,res);
-        preorder(node->left,depth+1,res);
+        preorder(node->right,res, level+1);
+        preorder(node->left,res, level+1);
 
-
-        
-
-        
 
     }
+
     vector<int> rightSideView(TreeNode* root) {
         vector<int>res;
-       
-        int level=0;
-        
 
-        preorder(root,1,res);
 
+        preorder(root,res, 1);
 
         return res;
-
-
-        
-
-
-
-
-
-
-
-        
 
         
     }
