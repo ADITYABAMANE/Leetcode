@@ -1,6 +1,7 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
+        
         int n=s.length();
         int i=0;
         int j=0;
@@ -10,32 +11,16 @@ public:
             mp[s[j]]++;
 
 
-             if(mp.size()<j-i+1){
+            if(mp.size()<j-i+1){
                 mp[s[i]]--;
-
                 if(mp[s[i]]==0){
                     mp.erase(s[i]);
                 }
-
                 i++;
-               
-               
-
-
             }
-
-            
-                
-                maxlen=max(maxlen,j-i+1);
-                j++;
-
-
-
-            
-
-           
+            maxlen=max(maxlen,j-i+1);
+            j++;
         }
         return maxlen;
-        
     }
 };
