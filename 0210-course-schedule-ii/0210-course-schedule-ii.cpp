@@ -1,36 +1,40 @@
 class Solution {
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        int  n=numCourses;
-
+        int n=numCourses;
+        //declaring an adjacency matrix
         vector<vector<int>>adj(n);
 
-        //build adjacency list
-        for(auto it:prerequisites )
-        {
+        for(auto it:prerequisites){
             adj[it[1]].push_back(it[0]);
         }
+        //built a graph;
+        //implementing a topo sort
+
         vector<int>indegree(n);
-        //calculating indegree of each element
+        queue<int>q;
+        //filling the indegree calculating the no of edges coming to each node
+
         for(int i=0;i<n;i++){
-            for(auto it:adj[i]){
+            for(auto it: adj[i]){
                 indegree[it]++;
             }}
 
-        //the elemts with indegree 0 are alreday push out from the queue
-        queue<int>q;
-        for(int i=0;i<n;i++) {
+        //pushing the node with empty indegree into the queue
+
+        for(int i=0;i<n;i++){
             if(indegree[i]==0){
                 q.push(i);
             }
-        } 
-        //creating topo vcetor
+        }
+        // declare the topo vector and  
         vector<int>topo;
         while(!q.empty()){
             int node=q.front();
-            topo.push_back(node);
-            q.pop();
+           topo.push_back(node);
+           q.pop();
 
+           //loose all the edes to the node attached to the node popped back 
 
             for(auto it:adj[node]){
                 indegree[it]--;
@@ -39,16 +43,33 @@ public:
                 }
             }
 
-        }
 
+
+
+
+
+        }
         if(topo.size()==n)return topo;
+
         return {};
 
 
 
 
 
+
+
+
+
+
         
+
+
+
+
+        
+        
+
 
         
     }
