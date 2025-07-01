@@ -33,14 +33,17 @@ public:
         }
         
         }  
-        vector<int>res;
-        while(!st.empty()){
-            res.push_back(st.top());
+       
+        int s=st.size();
+        vector<int>res(s);
+        int end=s-1;
+        while(!st.empty()  ){
+            res[end]=st.top();
             st.pop();
+            end--;
         }
-        reverse(res.begin(),res.end());
-
-        return res;
+    return res;
+        
 
     }
 };
