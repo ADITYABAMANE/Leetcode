@@ -45,6 +45,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0518-coin-change-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -194,6 +195,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ADITYABAMANE/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0525-contiguous-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0525-contiguous-array) |
 | [0692-top-k-frequent-words](https://github.com/ADITYABAMANE/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0870-magic-squares-in-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -453,6 +455,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0525-contiguous-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ADITYABAMANE/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## String Matching
 |  |
