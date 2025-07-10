@@ -11,26 +11,27 @@
  */
 class Solution {
 public:
-    int recursive(TreeNode*node,int &res){
-
+    int r(TreeNode* node,int &ans){
         if(node==NULL)return 0;
 
-        int leftsum=max(0, recursive(node->left,res));
-        int rightsum=max(0, recursive(node->right,res));
+        int leftsum=max(0,r(node->left,ans));
+        int rightsum=max(0,r(node->right,ans));
 
-        res=max(res,node->val+leftsum+rightsum);
 
-        return node->val+max(leftsum,rightsum);
+        ans=max(ans,node->val+leftsum+rightsum);
+
+        return  node->val+max(leftsum,rightsum);
+
 
 
     }
     int maxPathSum(TreeNode* root) {
         if(root==NULL)return 0;
-        int res=INT_MIN;
+        int ans=INT_MIN;
 
-        recursive(root,res);
+        r(root,ans);
 
-        return res;
+        return ans;
         
     }
 };
