@@ -12,27 +12,26 @@
 class Solution {
 public:
 
-    int Recursion(TreeNode* node,int &res){
+    int  actual_diameter(TreeNode* node,int &ans){
         if(node==NULL)return 0;
 
-        int lh=Recursion(node->left,res);
-        int rh=Recursion(node->right,res);
+        int lh=actual_diameter(node->left,ans);
+        int rh=actual_diameter(node->right,ans);
 
-        res=max(res,lh+rh);
+        ans=max(ans,lh+rh);
+
         return 1+max(lh,rh);
-
+        
 
 
     }
 
-
     int diameterOfBinaryTree(TreeNode* root) {
         if(root==NULL)return 0;
-        int res=INT_MIN;
+        int ans=INT_MIN;
 
-        Recursion(root, res);
-
-        return res;
+        actual_diameter(root,ans);
+        return ans;
         
     }
 };
