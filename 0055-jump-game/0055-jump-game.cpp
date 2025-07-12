@@ -2,18 +2,16 @@ class Solution {
 public:
     bool canJump(vector<int>& nums) {
         int n=nums.size();
-
-        int minjmp=0;
-
+        int minjump=0;
         for(int i=n-2;i>=0;i--){
-            minjmp++;
+            minjump++;
 
-            if(nums[i]>=minjmp){
-                minjmp=0;
+            if(nums[i]>=minjump){
+                minjump=0;
             }
         }
-        return minjmp==0?true:false;
-
+        if(minjump==0){return true;}
+        else{return false;}
         
     }
 };
