@@ -198,6 +198,7 @@
 | [0242-valid-anagram](https://github.com/ADITYABAMANE/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ADITYABAMANE/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ADITYABAMANE/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0525-contiguous-array) |
@@ -218,6 +219,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/ADITYABAMANE/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/0778-reorganize-string) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ADITYABAMANE/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -298,6 +300,7 @@
 | [0125-valid-palindrome](https://github.com/ADITYABAMANE/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/ADITYABAMANE/Leetcode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/ADITYABAMANE/Leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ADITYABAMANE/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ADITYABAMANE/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -315,6 +318,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ADITYABAMANE/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ADITYABAMANE/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ADITYABAMANE/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Ordered Set
