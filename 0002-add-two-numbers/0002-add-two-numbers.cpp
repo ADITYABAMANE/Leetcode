@@ -1,28 +1,64 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* dummy = new ListNode(0);
-        ListNode* curr = dummy;
-        int carry = 0;
+        ListNode*dummynode=  new ListNode(-1);
 
-        while (l1 || l2 || carry) {
-            int sum = carry;
+        ListNode* curr=dummynode;
 
-            if (l1) {
-                sum += l1->val;
-                l1 = l1->next;
+        ListNode*temp1=l1;
+        ListNode*temp2=l2;
+
+        int carry=0;
+       
+
+        while(temp1!=NULL || temp2!=NULL){
+            int sum=carry;
+
+            if(temp1){
+                sum+=temp1->val;
+            }
+            if(temp2!=NULL){
+                sum+=temp2->val;
             }
 
-            if (l2) {
-                sum += l2->val;
-                l2 = l2->next;
-            }
+            ListNode*node= new ListNode(sum%10);
 
-            carry = sum / 10;
-            curr->next = new ListNode(sum % 10);
-            curr = curr->next;
+            carry=sum/10;
+
+            curr->next=node;
+            curr=curr->next;
+
+            if(temp1)temp1=temp1->next;
+            if(temp2)temp2=temp2->next;
+
+
+
+
+                
+            
+
+
+
         }
 
-        return dummy->next;
+        if(carry!=0){
+            ListNode* car=new  ListNode(carry);
+            curr->next=car;
+        }
+        
+        
+        return dummynode->next;
+
+        
     }
 };
