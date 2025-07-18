@@ -122,6 +122,7 @@
 | [3289-earliest-second-to-mark-indices-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3289-earliest-second-to-mark-indices-ii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/ADITYABAMANE/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
+| [3495-k-th-nearest-obstacle-queries](https://github.com/ADITYABAMANE/Leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/ADITYABAMANE/Leetcode/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/ADITYABAMANE/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
@@ -248,6 +249,7 @@
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ADITYABAMANE/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3386-find-edges-in-shortest-paths](https://github.com/ADITYABAMANE/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/ADITYABAMANE/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
+| [3495-k-th-nearest-obstacle-queries](https://github.com/ADITYABAMANE/Leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
