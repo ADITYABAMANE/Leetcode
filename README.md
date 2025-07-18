@@ -97,6 +97,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ADITYABAMANE/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ADITYABAMANE/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2035-count-sub-islands](https://github.com/ADITYABAMANE/Leetcode/tree/master/2035-count-sub-islands) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ADITYABAMANE/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ADITYABAMANE/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -503,6 +504,7 @@
 | [1696-strange-printer-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/1696-strange-printer-ii) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ADITYABAMANE/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
+| [2035-count-sub-islands](https://github.com/ADITYABAMANE/Leetcode/tree/master/2035-count-sub-islands) |
 ## Backtracking
 |  |
 | ------- |
@@ -541,6 +543,7 @@
 | [0733-flood-fill](https://github.com/ADITYABAMANE/Leetcode/tree/master/0733-flood-fill) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/ADITYABAMANE/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [2035-count-sub-islands](https://github.com/ADITYABAMANE/Leetcode/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -559,6 +562,7 @@
 | [1036-rotting-oranges](https://github.com/ADITYABAMANE/Leetcode/tree/master/1036-rotting-oranges) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/ADITYABAMANE/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [2035-count-sub-islands](https://github.com/ADITYABAMANE/Leetcode/tree/master/2035-count-sub-islands) |
 ## Trie
 |  |
 | ------- |
@@ -580,6 +584,7 @@
 | [1257-rank-transform-of-a-matrix](https://github.com/ADITYABAMANE/Leetcode/tree/master/1257-rank-transform-of-a-matrix) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ADITYABAMANE/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2035-count-sub-islands](https://github.com/ADITYABAMANE/Leetcode/tree/master/2035-count-sub-islands) |
 ## Bit Manipulation
 |  |
 | ------- |
