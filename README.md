@@ -104,6 +104,7 @@
 | [2445-reachable-nodes-with-restrictions](https://github.com/ADITYABAMANE/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ADITYABAMANE/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/ADITYABAMANE/Leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2727-number-of-senior-citizens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ADITYABAMANE/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Math
@@ -450,6 +451,7 @@
 | [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ADITYABAMANE/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/ADITYABAMANE/Leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 ## Greedy
 |  |
 | ------- |
@@ -512,6 +514,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ADITYABAMANE/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
 | [2035-count-sub-islands](https://github.com/ADITYABAMANE/Leetcode/tree/master/2035-count-sub-islands) |
+| [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/ADITYABAMANE/Leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 ## Backtracking
 |  |
 | ------- |
@@ -560,6 +563,7 @@
 | [2445-reachable-nodes-with-restrictions](https://github.com/ADITYABAMANE/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ADITYABAMANE/Leetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+| [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/ADITYABAMANE/Leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -584,6 +588,7 @@
 | [2445-reachable-nodes-with-restrictions](https://github.com/ADITYABAMANE/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ADITYABAMANE/Leetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+| [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/ADITYABAMANE/Leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 ## Trie
 |  |
 | ------- |
