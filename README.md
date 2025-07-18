@@ -66,6 +66,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1487-cinema-seat-allocation](https://github.com/ADITYABAMANE/Leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1489-pizza-with-3n-slices](https://github.com/ADITYABAMANE/Leetcode/tree/master/1489-pizza-with-3n-slices) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/ADITYABAMANE/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1503-reducing-dishes](https://github.com/ADITYABAMANE/Leetcode/tree/master/1503-reducing-dishes) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ADITYABAMANE/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -239,6 +240,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ADITYABAMANE/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/ADITYABAMANE/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ADITYABAMANE/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Counting
 |  |
@@ -271,6 +273,7 @@
 | [0654-maximum-binary-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/ADITYABAMANE/Leetcode/tree/master/0735-asteroid-collision) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/ADITYABAMANE/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2470-removing-stars-from-a-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
 |  |
