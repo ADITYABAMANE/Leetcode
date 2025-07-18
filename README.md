@@ -535,6 +535,7 @@
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/ADITYABAMANE/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Queue
 |  |
 | ------- |
@@ -683,6 +684,7 @@
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/ADITYABAMANE/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3783-permutations-iv](https://github.com/ADITYABAMANE/Leetcode/tree/master/3783-permutations-iv) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
