@@ -80,6 +80,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ADITYABAMANE/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/ADITYABAMANE/Leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ADITYABAMANE/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ADITYABAMANE/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ADITYABAMANE/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -105,6 +106,7 @@
 | [1284-four-divisors](https://github.com/ADITYABAMANE/Leetcode/tree/master/1284-four-divisors) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/ADITYABAMANE/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ADITYABAMANE/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ADITYABAMANE/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Divide and Conquer
 |  |
@@ -185,6 +187,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ADITYABAMANE/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/ADITYABAMANE/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
@@ -236,6 +239,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/ADITYABAMANE/Leetcode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ADITYABAMANE/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ADITYABAMANE/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
