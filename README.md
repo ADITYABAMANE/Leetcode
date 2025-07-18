@@ -143,6 +143,7 @@
 | [3783-permutations-iv](https://github.com/ADITYABAMANE/Leetcode/tree/master/3783-permutations-iv) |
 | [3809-properties-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/3809-properties-graph) |
 | [3837-grid-teleportation-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/3837-grid-teleportation-traversal) |
+| [3849-equal-sum-grid-partition-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3863-power-grid-maintenance](https://github.com/ADITYABAMANE/Leetcode/tree/master/3863-power-grid-maintenance) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ADITYABAMANE/Leetcode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/ADITYABAMANE/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
@@ -685,6 +686,7 @@
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3783-permutations-iv](https://github.com/ADITYABAMANE/Leetcode/tree/master/3783-permutations-iv) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3805-maximize-active-section-with-trade-i) |
+| [3849-equal-sum-grid-partition-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -715,6 +717,7 @@
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3837-grid-teleportation-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/3837-grid-teleportation-traversal) |
+| [3849-equal-sum-grid-partition-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ADITYABAMANE/Leetcode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
 |  |
@@ -886,6 +889,7 @@
 | [3647-zero-array-transformation-iii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/ADITYABAMANE/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3849-equal-sum-grid-partition-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## String Matching
 |  |
 | ------- |
