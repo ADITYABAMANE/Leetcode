@@ -111,6 +111,7 @@
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/ADITYABAMANE/Leetcode/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/ADITYABAMANE/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3837-grid-teleportation-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/3837-grid-teleportation-traversal) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/ADITYABAMANE/Leetcode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ADITYABAMANE/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Math
 |  |
@@ -285,6 +286,7 @@
 | [2445-reachable-nodes-with-restrictions](https://github.com/ADITYABAMANE/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3837-grid-teleportation-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/3837-grid-teleportation-traversal) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/ADITYABAMANE/Leetcode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ADITYABAMANE/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Design
 |  |
@@ -539,6 +541,7 @@
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3837-grid-teleportation-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/3837-grid-teleportation-traversal) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/ADITYABAMANE/Leetcode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
 |  |
 | ------- |
@@ -639,6 +642,7 @@
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3729-unit-conversion-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3729-unit-conversion-i) |
 | [3837-grid-teleportation-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/3837-grid-teleportation-traversal) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/ADITYABAMANE/Leetcode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Trie
 |  |
 | ------- |
@@ -672,6 +676,7 @@
 | [1487-cinema-seat-allocation](https://github.com/ADITYABAMANE/Leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/ADITYABAMANE/Leetcode/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/ADITYABAMANE/Leetcode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
 | ------- |
