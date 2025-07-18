@@ -1,29 +1,55 @@
-class Solution
-{
-    void dfs(vector<pair<int, int>> *adj, vector<int> &disappear, vector<int> &ans, int t, int u)
-    {
-        for (auto [v, w] : adj[u])
-        {
-            if (t + w < disappear[v] && (ans[v] == -1 || ans[v] > t + w))
-            {
-                ans[v] = t + w;
-                dfs(adj, disappear, ans, t + w, v);
+#define pii pair<int, int>
+class Solution {
+public:
+    vector<int> minimumTime(int n, vector<vector<int>>& edges, vector<int>& disappear) {
+        // Build the adjacency list for the undirected graph.
+        // Each element in 'adj' represents a list of pairs (neighbor, edge_length).
+        vector<vector<pii>> adj(n);
+        for(auto &edge : edges){
+            int u = edge[0], v = edge[1], w = edge[2];
+            adj[u].push_back({v, w});
+            adj[v].push_back({u, w});
+        }
+        
+        // Priority queue for Dijkstra's algorithm.
+        // It stores pairs (current_distance, node) so that the node with the smallest distance is processed first.
+        priority_queue<pii, vector<pii>, greater<pii>> pq;
+        pq.push({0, 0});  // Start from node 0 with a distance of 0.
+        
+        // Initialize the distance vector with a large value (infinity substitute).
+        vector<int> dist(n, 1e9);
+        dist[0] = 0;
+        
+        // Dijkstra's algorithm main loop.
+        while(!pq.empty()){
+            // Extract the node with the smallest current distance.
+            int d = pq.top().first;
+            int node = pq.top().second;
+            pq.pop();
+            
+            // If the current distance does not match the best known distance, skip processing.
+            if(dist[node] != d) continue;
+            
+            // Process each neighbor of the current node.
+            for(auto &edge : adj[node]){
+                int neigh = edge.first;  // The neighbor node.
+                int len = edge.second;     // The time needed to travel to the neighbor.
+                
+                // Check if a new, shorter distance to the neighbor is found.
+                if(dist[neigh] > d + len){
+                    // Only update if the arrival time is before the neighbor's disappearance.
+                    if(d + len < disappear[neigh]){
+                        dist[neigh] = d + len;
+                        pq.push({dist[neigh], neigh});  // Push the updated distance and node.
+                    }
+                }
             }
         }
-    }
-
-public:
-    vector<int> minimumTime(int n, vector<vector<int>> &edges, vector<int> &disappear)
-    {
-        vector<pair<int, int>> adj[n];
-        for (auto &e : edges)
-        {
-            adj[e[0]].push_back({e[1], e[2]});
-            adj[e[1]].push_back({e[0], e[2]});
-        }
-        vector<int> ans(n, -1);
-        ans[0] = 0;
-        dfs(adj, disappear, ans, 0, 0);
-        return ans;
+        
+        // Replace any distance that remains as 1e9 (i.e., unreachable nodes) with -1.
+        for(auto &d : dist)
+            d = (d == 1e9 ? -1 : d);
+            
+        return dist;
     }
 };
