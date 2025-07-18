@@ -120,6 +120,7 @@
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/ADITYABAMANE/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3289-earliest-second-to-mark-indices-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3289-earliest-second-to-mark-indices-ii) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/ADITYABAMANE/Leetcode/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/ADITYABAMANE/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
@@ -241,6 +242,7 @@
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/ADITYABAMANE/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3289-earliest-second-to-mark-indices-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3289-earliest-second-to-mark-indices-ii) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3386-find-edges-in-shortest-paths](https://github.com/ADITYABAMANE/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
@@ -517,6 +519,7 @@
 | [2470-removing-stars-from-a-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/ADITYABAMANE/Leetcode/tree/master/2728-sum-in-a-matrix) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Dynamic Programming
 |  |
