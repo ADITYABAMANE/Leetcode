@@ -125,6 +125,7 @@
 | [3495-k-th-nearest-obstacle-queries](https://github.com/ADITYABAMANE/Leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/ADITYABAMANE/Leetcode/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/ADITYABAMANE/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -251,6 +252,7 @@
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/ADITYABAMANE/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/ADITYABAMANE/Leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
@@ -314,6 +316,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ADITYABAMANE/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -352,6 +355,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ADITYABAMANE/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3809-properties-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/3809-properties-graph) |
 | [3837-grid-teleportation-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/3837-grid-teleportation-traversal) |
