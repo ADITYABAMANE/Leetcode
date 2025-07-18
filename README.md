@@ -132,6 +132,7 @@
 | [2810-collecting-chocolates](https://github.com/ADITYABAMANE/Leetcode/tree/master/2810-collecting-chocolates) |
 | [2868-continuous-subarrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2873-prime-pairs-with-target-sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
+| [2889-number-of-black-blocks](https://github.com/ADITYABAMANE/Leetcode/tree/master/2889-number-of-black-blocks) |
 | [3104-happy-students](https://github.com/ADITYABAMANE/Leetcode/tree/master/3104-happy-students) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/ADITYABAMANE/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -425,6 +426,7 @@
 | [2543-most-popular-video-creator](https://github.com/ADITYABAMANE/Leetcode/tree/master/2543-most-popular-video-creator) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2889-number-of-black-blocks](https://github.com/ADITYABAMANE/Leetcode/tree/master/2889-number-of-black-blocks) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ADITYABAMANE/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -744,6 +746,7 @@
 | [2754-maximum-strength-of-a-group](https://github.com/ADITYABAMANE/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2810-collecting-chocolates](https://github.com/ADITYABAMANE/Leetcode/tree/master/2810-collecting-chocolates) |
 | [2873-prime-pairs-with-target-sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
+| [2889-number-of-black-blocks](https://github.com/ADITYABAMANE/Leetcode/tree/master/2889-number-of-black-blocks) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/ADITYABAMANE/Leetcode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3104-happy-students](https://github.com/ADITYABAMANE/Leetcode/tree/master/3104-happy-students) |
 | [3199-distribute-candies-among-children-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
