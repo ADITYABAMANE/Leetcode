@@ -128,6 +128,7 @@
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/ADITYABAMANE/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
@@ -255,6 +256,7 @@
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
@@ -648,6 +650,7 @@
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2728-sum-in-a-matrix](https://github.com/ADITYABAMANE/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3837-grid-teleportation-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/3837-grid-teleportation-traversal) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ADITYABAMANE/Leetcode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -685,6 +688,7 @@
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3561-remove-methods-from-project](https://github.com/ADITYABAMANE/Leetcode/tree/master/3561-remove-methods-from-project) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/ADITYABAMANE/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3729-unit-conversion-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3729-unit-conversion-i) |
 | [3809-properties-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/3809-properties-graph) |
 | [3863-power-grid-maintenance](https://github.com/ADITYABAMANE/Leetcode/tree/master/3863-power-grid-maintenance) |
@@ -843,6 +847,7 @@
 | [3386-find-edges-in-shortest-paths](https://github.com/ADITYABAMANE/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/ADITYABAMANE/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3896-minimum-time-to-transport-all-individuals](https://github.com/ADITYABAMANE/Leetcode/tree/master/3896-minimum-time-to-transport-all-individuals) |
 ## Game Theory
 |  |
