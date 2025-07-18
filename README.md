@@ -96,6 +96,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ADITYABAMANE/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1752-arithmetic-subarrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1836-count-ways-to-make-array-with-product](https://github.com/ADITYABAMANE/Leetcode/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ADITYABAMANE/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ADITYABAMANE/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ADITYABAMANE/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -175,6 +176,7 @@
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1733-maximum-number-of-visible-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
+| [1836-count-ways-to-make-array-with-product](https://github.com/ADITYABAMANE/Leetcode/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/ADITYABAMANE/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1861-building-boxes](https://github.com/ADITYABAMANE/Leetcode/tree/master/1861-building-boxes) |
 | [1879-maximum-score-from-removing-stones](https://github.com/ADITYABAMANE/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
@@ -633,6 +635,7 @@
 | [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/ADITYABAMANE/Leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ADITYABAMANE/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1836-count-ways-to-make-array-with-product](https://github.com/ADITYABAMANE/Leetcode/tree/master/1836-count-ways-to-make-array-with-product) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/ADITYABAMANE/Leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
@@ -727,6 +730,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ADITYABAMANE/Leetcode/tree/master/0204-count-primes) |
+| [1836-count-ways-to-make-array-with-product](https://github.com/ADITYABAMANE/Leetcode/tree/master/1836-count-ways-to-make-array-with-product) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/ADITYABAMANE/Leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3888-maximize-subarray-gcd-score](https://github.com/ADITYABAMANE/Leetcode/tree/master/3888-maximize-subarray-gcd-score) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ADITYABAMANE/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -950,6 +954,7 @@
 |  |
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ADITYABAMANE/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1836-count-ways-to-make-array-with-product](https://github.com/ADITYABAMANE/Leetcode/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ADITYABAMANE/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3783-permutations-iv](https://github.com/ADITYABAMANE/Leetcode/tree/master/3783-permutations-iv) |
 ## Bitmask
