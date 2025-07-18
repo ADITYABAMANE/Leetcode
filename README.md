@@ -110,6 +110,7 @@
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/ADITYABAMANE/Leetcode/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/ADITYABAMANE/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3809-properties-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/3809-properties-graph) |
 | [3837-grid-teleportation-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/3837-grid-teleportation-traversal) |
 | [3863-power-grid-maintenance](https://github.com/ADITYABAMANE/Leetcode/tree/master/3863-power-grid-maintenance) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ADITYABAMANE/Leetcode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -287,6 +288,7 @@
 | [2413-smallest-number-in-infinite-set](https://github.com/ADITYABAMANE/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ADITYABAMANE/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3809-properties-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/3809-properties-graph) |
 | [3837-grid-teleportation-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/3837-grid-teleportation-traversal) |
 | [3863-power-grid-maintenance](https://github.com/ADITYABAMANE/Leetcode/tree/master/3863-power-grid-maintenance) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ADITYABAMANE/Leetcode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -578,6 +580,7 @@
 | [3561-remove-methods-from-project](https://github.com/ADITYABAMANE/Leetcode/tree/master/3561-remove-methods-from-project) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/ADITYABAMANE/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3729-unit-conversion-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3729-unit-conversion-i) |
+| [3809-properties-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/3809-properties-graph) |
 | [3863-power-grid-maintenance](https://github.com/ADITYABAMANE/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Depth-First Search
 |  |
@@ -609,6 +612,7 @@
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/ADITYABAMANE/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3729-unit-conversion-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3729-unit-conversion-i) |
+| [3809-properties-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/3809-properties-graph) |
 | [3863-power-grid-maintenance](https://github.com/ADITYABAMANE/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -647,6 +651,7 @@
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/ADITYABAMANE/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3729-unit-conversion-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3729-unit-conversion-i) |
+| [3809-properties-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/3809-properties-graph) |
 | [3837-grid-teleportation-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/3837-grid-teleportation-traversal) |
 | [3863-power-grid-maintenance](https://github.com/ADITYABAMANE/Leetcode/tree/master/3863-power-grid-maintenance) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ADITYABAMANE/Leetcode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -675,6 +680,7 @@
 | [2121-find-if-path-exists-in-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ADITYABAMANE/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
+| [3809-properties-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/3809-properties-graph) |
 | [3863-power-grid-maintenance](https://github.com/ADITYABAMANE/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Bit Manipulation
 |  |
