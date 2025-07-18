@@ -57,6 +57,7 @@
 | [0735-asteroid-collision](https://github.com/ADITYABAMANE/Leetcode/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0870-magic-squares-in-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0875-longest-mountain-in-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0907-koko-eating-bananas](https://github.com/ADITYABAMANE/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/ADITYABAMANE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -315,6 +316,7 @@
 | [0443-string-compression](https://github.com/ADITYABAMANE/Leetcode/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/ADITYABAMANE/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0875-longest-mountain-in-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ADITYABAMANE/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -612,6 +614,7 @@
 | [0518-coin-change-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/ADITYABAMANE/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0875-longest-mountain-in-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/ADITYABAMANE/Leetcode/tree/master/1013-fibonacci-number) |
 | [1489-pizza-with-3n-slices](https://github.com/ADITYABAMANE/Leetcode/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/ADITYABAMANE/Leetcode/tree/master/1503-reducing-dishes) |
@@ -684,6 +687,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/ADITYABAMANE/Leetcode/tree/master/0204-count-primes) |
 | [0834-ambiguous-coordinates](https://github.com/ADITYABAMANE/Leetcode/tree/master/0834-ambiguous-coordinates) |
+| [0875-longest-mountain-in-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0900-reordered-power-of-2](https://github.com/ADITYABAMANE/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0942-super-palindromes](https://github.com/ADITYABAMANE/Leetcode/tree/master/0942-super-palindromes) |
 | [1726-coordinate-with-maximum-network-quality](https://github.com/ADITYABAMANE/Leetcode/tree/master/1726-coordinate-with-maximum-network-quality) |
