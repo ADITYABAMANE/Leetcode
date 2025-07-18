@@ -131,6 +131,7 @@
 | [2754-maximum-strength-of-a-group](https://github.com/ADITYABAMANE/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2810-collecting-chocolates](https://github.com/ADITYABAMANE/Leetcode/tree/master/2810-collecting-chocolates) |
 | [2868-continuous-subarrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/2868-continuous-subarrays) |
+| [2873-prime-pairs-with-target-sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3104-happy-students](https://github.com/ADITYABAMANE/Leetcode/tree/master/3104-happy-students) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/ADITYABAMANE/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -195,6 +196,7 @@
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/ADITYABAMANE/Leetcode/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ADITYABAMANE/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2873-prime-pairs-with-target-sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/ADITYABAMANE/Leetcode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3199-distribute-candies-among-children-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -741,6 +743,7 @@
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2754-maximum-strength-of-a-group](https://github.com/ADITYABAMANE/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2810-collecting-chocolates](https://github.com/ADITYABAMANE/Leetcode/tree/master/2810-collecting-chocolates) |
+| [2873-prime-pairs-with-target-sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/ADITYABAMANE/Leetcode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3104-happy-students](https://github.com/ADITYABAMANE/Leetcode/tree/master/3104-happy-students) |
 | [3199-distribute-candies-among-children-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
@@ -761,6 +764,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/ADITYABAMANE/Leetcode/tree/master/0204-count-primes) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/ADITYABAMANE/Leetcode/tree/master/1836-count-ways-to-make-array-with-product) |
+| [2873-prime-pairs-with-target-sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/ADITYABAMANE/Leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3888-maximize-subarray-gcd-score](https://github.com/ADITYABAMANE/Leetcode/tree/master/3888-maximize-subarray-gcd-score) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ADITYABAMANE/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
