@@ -140,6 +140,7 @@
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
+| [3783-permutations-iv](https://github.com/ADITYABAMANE/Leetcode/tree/master/3783-permutations-iv) |
 | [3809-properties-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/3809-properties-graph) |
 | [3837-grid-teleportation-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/3837-grid-teleportation-traversal) |
 | [3863-power-grid-maintenance](https://github.com/ADITYABAMANE/Leetcode/tree/master/3863-power-grid-maintenance) |
@@ -173,6 +174,7 @@
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/ADITYABAMANE/Leetcode/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/ADITYABAMANE/Leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
+| [3783-permutations-iv](https://github.com/ADITYABAMANE/Leetcode/tree/master/3783-permutations-iv) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ADITYABAMANE/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Divide and Conquer
 |  |
@@ -677,6 +679,7 @@
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/ADITYABAMANE/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3783-permutations-iv](https://github.com/ADITYABAMANE/Leetcode/tree/master/3783-permutations-iv) |
 ## Number Theory
 |  |
 | ------- |
@@ -898,6 +901,7 @@
 |  |
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ADITYABAMANE/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3783-permutations-iv](https://github.com/ADITYABAMANE/Leetcode/tree/master/3783-permutations-iv) |
 ## Bitmask
 |  |
 | ------- |
