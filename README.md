@@ -311,6 +311,7 @@
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ADITYABAMANE/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3195-separate-black-and-white-balls](https://github.com/ADITYABAMANE/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -527,6 +528,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/ADITYABAMANE/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ADITYABAMANE/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/ADITYABAMANE/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Queue
 |  |
 | ------- |
@@ -669,6 +671,7 @@
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/ADITYABAMANE/Leetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Number Theory
 |  |
 | ------- |
