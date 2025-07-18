@@ -103,6 +103,7 @@
 | [1836-count-ways-to-make-array-with-product](https://github.com/ADITYABAMANE/Leetcode/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ADITYABAMANE/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ADITYABAMANE/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ADITYABAMANE/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ADITYABAMANE/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2035-count-sub-islands](https://github.com/ADITYABAMANE/Leetcode/tree/master/2035-count-sub-islands) |
 | [2122-count-special-quadruplets](https://github.com/ADITYABAMANE/Leetcode/tree/master/2122-count-special-quadruplets) |
@@ -187,6 +188,7 @@
 | [1808-stone-game-vii](https://github.com/ADITYABAMANE/Leetcode/tree/master/1808-stone-game-vii) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/ADITYABAMANE/Leetcode/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ADITYABAMANE/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/ADITYABAMANE/Leetcode/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ADITYABAMANE/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -212,6 +214,7 @@
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/ADITYABAMANE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1733-maximum-number-of-visible-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ADITYABAMANE/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Sorting
 |  |
