@@ -345,6 +345,7 @@
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -533,6 +534,7 @@
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ADITYABAMANE/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/ADITYABAMANE/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Queue
 |  |
 | ------- |
@@ -679,6 +681,7 @@
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/ADITYABAMANE/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3783-permutations-iv](https://github.com/ADITYABAMANE/Leetcode/tree/master/3783-permutations-iv) |
 ## Number Theory
 |  |
@@ -880,6 +883,7 @@
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3647-zero-array-transformation-iii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/ADITYABAMANE/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## String Matching
 |  |
 | ------- |
