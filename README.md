@@ -63,6 +63,7 @@
 | [1036-rotting-oranges](https://github.com/ADITYABAMANE/Leetcode/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1284-four-divisors](https://github.com/ADITYABAMANE/Leetcode/tree/master/1284-four-divisors) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1487-cinema-seat-allocation](https://github.com/ADITYABAMANE/Leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1489-pizza-with-3n-slices](https://github.com/ADITYABAMANE/Leetcode/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/ADITYABAMANE/Leetcode/tree/master/1503-reducing-dishes) |
@@ -133,6 +134,7 @@
 | [0778-reorganize-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/ADITYABAMANE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1503-reducing-dishes](https://github.com/ADITYABAMANE/Leetcode/tree/master/1503-reducing-dishes) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/ADITYABAMANE/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/ADITYABAMANE/Leetcode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
@@ -177,6 +179,7 @@
 | [0647-palindromic-substrings](https://github.com/ADITYABAMANE/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ADITYABAMANE/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/ADITYABAMANE/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -192,6 +195,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/ADITYABAMANE/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ADITYABAMANE/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sliding Window
 |  |
