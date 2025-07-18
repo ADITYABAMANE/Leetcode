@@ -345,6 +345,7 @@
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ADITYABAMANE/Leetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -590,6 +591,7 @@
 | [2677-cousins-in-binary-tree-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3386-find-edges-in-shortest-paths](https://github.com/ADITYABAMANE/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3561-remove-methods-from-project](https://github.com/ADITYABAMANE/Leetcode/tree/master/3561-remove-methods-from-project) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -624,6 +626,7 @@
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/ADITYABAMANE/Leetcode/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3561-remove-methods-from-project](https://github.com/ADITYABAMANE/Leetcode/tree/master/3561-remove-methods-from-project) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Trie
 |  |
 | ------- |
