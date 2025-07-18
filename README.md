@@ -331,6 +331,7 @@
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ADITYABAMANE/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ADITYABAMANE/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ADITYABAMANE/Leetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -535,6 +536,7 @@
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/ADITYABAMANE/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ADITYABAMANE/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ADITYABAMANE/Leetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -557,6 +559,7 @@
 | [2121-find-if-path-exists-in-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ADITYABAMANE/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ADITYABAMANE/Leetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -580,6 +583,7 @@
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/ADITYABAMANE/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ADITYABAMANE/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ADITYABAMANE/Leetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Trie
 |  |
 | ------- |
