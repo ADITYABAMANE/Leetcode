@@ -176,6 +176,7 @@
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1733-maximum-number-of-visible-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/ADITYABAMANE/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [1861-building-boxes](https://github.com/ADITYABAMANE/Leetcode/tree/master/1861-building-boxes) |
 | [1879-maximum-score-from-removing-stones](https://github.com/ADITYABAMANE/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/ADITYABAMANE/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ADITYABAMANE/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -345,6 +346,7 @@
 | [0907-koko-eating-bananas](https://github.com/ADITYABAMANE/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ADITYABAMANE/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1861-building-boxes](https://github.com/ADITYABAMANE/Leetcode/tree/master/1861-building-boxes) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [3289-earliest-second-to-mark-indices-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3289-earliest-second-to-mark-indices-ii) |
 ## Sliding Window
@@ -656,6 +658,7 @@
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/ADITYABAMANE/Leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/ADITYABAMANE/Leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ADITYABAMANE/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1861-building-boxes](https://github.com/ADITYABAMANE/Leetcode/tree/master/1861-building-boxes) |
 | [1879-maximum-score-from-removing-stones](https://github.com/ADITYABAMANE/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ADITYABAMANE/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
