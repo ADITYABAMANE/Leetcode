@@ -175,6 +175,7 @@
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1733-maximum-number-of-visible-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/ADITYABAMANE/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ADITYABAMANE/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/ADITYABAMANE/Leetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
@@ -538,6 +539,7 @@
 | [1524-string-matching-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/ADITYABAMANE/Leetcode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ADITYABAMANE/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/ADITYABAMANE/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ADITYABAMANE/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/ADITYABAMANE/Leetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ADITYABAMANE/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
