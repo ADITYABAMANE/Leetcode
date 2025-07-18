@@ -141,6 +141,7 @@
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/ADITYABAMANE/Leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3863-power-grid-maintenance](https://github.com/ADITYABAMANE/Leetcode/tree/master/3863-power-grid-maintenance) |
+| [3868-find-maximum-area-of-a-triangle](https://github.com/ADITYABAMANE/Leetcode/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ADITYABAMANE/Leetcode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/ADITYABAMANE/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3896-minimum-time-to-transport-all-individuals](https://github.com/ADITYABAMANE/Leetcode/tree/master/3896-minimum-time-to-transport-all-individuals) |
@@ -169,6 +170,7 @@
 | [2202-sum-of-k-mirror-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/ADITYABAMANE/Leetcode/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/ADITYABAMANE/Leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
+| [3868-find-maximum-area-of-a-triangle](https://github.com/ADITYABAMANE/Leetcode/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ADITYABAMANE/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Divide and Conquer
 |  |
@@ -184,6 +186,7 @@
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/ADITYABAMANE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1733-maximum-number-of-visible-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
+| [3868-find-maximum-area-of-a-triangle](https://github.com/ADITYABAMANE/Leetcode/tree/master/3868-find-maximum-area-of-a-triangle) |
 ## Sorting
 |  |
 | ------- |
@@ -382,6 +385,7 @@
 | [3837-grid-teleportation-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/3837-grid-teleportation-traversal) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3863-power-grid-maintenance](https://github.com/ADITYABAMANE/Leetcode/tree/master/3863-power-grid-maintenance) |
+| [3868-find-maximum-area-of-a-triangle](https://github.com/ADITYABAMANE/Leetcode/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ADITYABAMANE/Leetcode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/ADITYABAMANE/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ADITYABAMANE/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -624,6 +628,7 @@
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ADITYABAMANE/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3647-zero-array-transformation-iii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3868-find-maximum-area-of-a-triangle](https://github.com/ADITYABAMANE/Leetcode/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/ADITYABAMANE/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Bucket Sort
 |  |
@@ -658,6 +663,7 @@
 | [2241-recover-the-original-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/2241-recover-the-original-array) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/ADITYABAMANE/Leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3850-equal-sum-grid-partition-ii) |
+| [3868-find-maximum-area-of-a-triangle](https://github.com/ADITYABAMANE/Leetcode/tree/master/3868-find-maximum-area-of-a-triangle) |
 ## Number Theory
 |  |
 | ------- |
