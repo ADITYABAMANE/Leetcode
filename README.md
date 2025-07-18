@@ -146,6 +146,7 @@
 | [3837-grid-teleportation-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/3837-grid-teleportation-traversal) |
 | [3863-power-grid-maintenance](https://github.com/ADITYABAMANE/Leetcode/tree/master/3863-power-grid-maintenance) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ADITYABAMANE/Leetcode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+| [3888-maximize-subarray-gcd-score](https://github.com/ADITYABAMANE/Leetcode/tree/master/3888-maximize-subarray-gcd-score) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/ADITYABAMANE/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3896-minimum-time-to-transport-all-individuals](https://github.com/ADITYABAMANE/Leetcode/tree/master/3896-minimum-time-to-transport-all-individuals) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ADITYABAMANE/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -177,6 +178,7 @@
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3783-permutations-iv](https://github.com/ADITYABAMANE/Leetcode/tree/master/3783-permutations-iv) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3888-maximize-subarray-gcd-score](https://github.com/ADITYABAMANE/Leetcode/tree/master/3888-maximize-subarray-gcd-score) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ADITYABAMANE/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Divide and Conquer
 |  |
@@ -692,11 +694,13 @@
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3888-maximize-subarray-gcd-score](https://github.com/ADITYABAMANE/Leetcode/tree/master/3888-maximize-subarray-gcd-score) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ADITYABAMANE/Leetcode/tree/master/0204-count-primes) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/ADITYABAMANE/Leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
+| [3888-maximize-subarray-gcd-score](https://github.com/ADITYABAMANE/Leetcode/tree/master/3888-maximize-subarray-gcd-score) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ADITYABAMANE/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Matrix
 |  |
