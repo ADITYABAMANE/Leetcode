@@ -98,6 +98,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ADITYABAMANE/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ADITYABAMANE/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2035-count-sub-islands](https://github.com/ADITYABAMANE/Leetcode/tree/master/2035-count-sub-islands) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/ADITYABAMANE/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ADITYABAMANE/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ADITYABAMANE/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -525,6 +526,7 @@
 | [1257-rank-transform-of-a-matrix](https://github.com/ADITYABAMANE/Leetcode/tree/master/1257-rank-transform-of-a-matrix) |
 | [1696-strange-printer-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/1696-strange-printer-ii) |
 | [1916-find-center-of-star-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/1916-find-center-of-star-graph) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/ADITYABAMANE/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -563,6 +565,7 @@
 | [1492-time-needed-to-inform-all-employees](https://github.com/ADITYABAMANE/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2035-count-sub-islands](https://github.com/ADITYABAMANE/Leetcode/tree/master/2035-count-sub-islands) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/ADITYABAMANE/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 ## Trie
 |  |
 | ------- |
