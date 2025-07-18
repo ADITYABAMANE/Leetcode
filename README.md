@@ -92,6 +92,7 @@
 | [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/ADITYABAMANE/Leetcode/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
 | [1726-coordinate-with-maximum-network-quality](https://github.com/ADITYABAMANE/Leetcode/tree/master/1726-coordinate-with-maximum-network-quality) |
 | [1733-maximum-number-of-visible-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ADITYABAMANE/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1752-arithmetic-subarrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ADITYABAMANE/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -375,6 +376,7 @@
 | [0778-reorganize-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/0778-reorganize-string) |
 | [1524-string-matching-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/ADITYABAMANE/Leetcode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ADITYABAMANE/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ADITYABAMANE/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ADITYABAMANE/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2470-removing-stars-from-a-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -436,6 +438,7 @@
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/ADITYABAMANE/Leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ADITYABAMANE/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ADITYABAMANE/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Greedy
 |  |
 | ------- |
