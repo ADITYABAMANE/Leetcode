@@ -114,6 +114,7 @@
 | [3837-grid-teleportation-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/3837-grid-teleportation-traversal) |
 | [3863-power-grid-maintenance](https://github.com/ADITYABAMANE/Leetcode/tree/master/3863-power-grid-maintenance) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ADITYABAMANE/Leetcode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+| [3896-minimum-time-to-transport-all-individuals](https://github.com/ADITYABAMANE/Leetcode/tree/master/3896-minimum-time-to-transport-all-individuals) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ADITYABAMANE/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Math
 |  |
@@ -202,6 +203,7 @@
 | [3386-find-edges-in-shortest-paths](https://github.com/ADITYABAMANE/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3863-power-grid-maintenance](https://github.com/ADITYABAMANE/Leetcode/tree/master/3863-power-grid-maintenance) |
+| [3896-minimum-time-to-transport-all-individuals](https://github.com/ADITYABAMANE/Leetcode/tree/master/3896-minimum-time-to-transport-all-individuals) |
 ## Quickselect
 |  |
 | ------- |
@@ -481,6 +483,7 @@
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/ADITYABAMANE/Leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
+| [3896-minimum-time-to-transport-all-individuals](https://github.com/ADITYABAMANE/Leetcode/tree/master/3896-minimum-time-to-transport-all-individuals) |
 ## Greedy
 |  |
 | ------- |
@@ -582,6 +585,7 @@
 | [3729-unit-conversion-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3729-unit-conversion-i) |
 | [3809-properties-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/3809-properties-graph) |
 | [3863-power-grid-maintenance](https://github.com/ADITYABAMANE/Leetcode/tree/master/3863-power-grid-maintenance) |
+| [3896-minimum-time-to-transport-all-individuals](https://github.com/ADITYABAMANE/Leetcode/tree/master/3896-minimum-time-to-transport-all-individuals) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -691,6 +695,7 @@
 | [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/ADITYABAMANE/Leetcode/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ADITYABAMANE/Leetcode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+| [3896-minimum-time-to-transport-all-individuals](https://github.com/ADITYABAMANE/Leetcode/tree/master/3896-minimum-time-to-transport-all-individuals) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -725,11 +730,13 @@
 | ------- |
 | [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/ADITYABAMANE/Leetcode/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
+| [3896-minimum-time-to-transport-all-individuals](https://github.com/ADITYABAMANE/Leetcode/tree/master/3896-minimum-time-to-transport-all-individuals) |
 ## Shortest Path
 |  |
 | ------- |
 | [3386-find-edges-in-shortest-paths](https://github.com/ADITYABAMANE/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3896-minimum-time-to-transport-all-individuals](https://github.com/ADITYABAMANE/Leetcode/tree/master/3896-minimum-time-to-transport-all-individuals) |
 ## Game Theory
 |  |
 | ------- |
