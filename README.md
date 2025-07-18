@@ -92,6 +92,7 @@
 | [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
 | [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/ADITYABAMANE/Leetcode/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
 | [1726-coordinate-with-maximum-network-quality](https://github.com/ADITYABAMANE/Leetcode/tree/master/1726-coordinate-with-maximum-network-quality) |
+| [1727-cat-and-mouse-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [1733-maximum-number-of-visible-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ADITYABAMANE/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1752-arithmetic-subarrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1752-arithmetic-subarrays) |
@@ -176,6 +177,7 @@
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ADITYABAMANE/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1727-cat-and-mouse-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [1733-maximum-number-of-visible-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
 | [1808-stone-game-vii](https://github.com/ADITYABAMANE/Leetcode/tree/master/1808-stone-game-vii) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/ADITYABAMANE/Leetcode/tree/master/1836-count-ways-to-make-array-with-product) |
@@ -628,6 +630,7 @@
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/ADITYABAMANE/Leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ADITYABAMANE/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
+| [1727-cat-and-mouse-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/ADITYABAMANE/Leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ADITYABAMANE/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1808-stone-game-vii](https://github.com/ADITYABAMANE/Leetcode/tree/master/1808-stone-game-vii) |
@@ -743,6 +746,7 @@
 | [1696-strange-printer-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/1696-strange-printer-ii) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ADITYABAMANE/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
+| [1727-cat-and-mouse-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [2035-count-sub-islands](https://github.com/ADITYABAMANE/Leetcode/tree/master/2035-count-sub-islands) |
 | [2146-check-if-word-can-be-placed-in-crossword](https://github.com/ADITYABAMANE/Leetcode/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ADITYABAMANE/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -778,6 +782,7 @@
 | [0547-number-of-provinces](https://github.com/ADITYABAMANE/Leetcode/tree/master/0547-number-of-provinces) |
 | [1257-rank-transform-of-a-matrix](https://github.com/ADITYABAMANE/Leetcode/tree/master/1257-rank-transform-of-a-matrix) |
 | [1696-strange-printer-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/1696-strange-printer-ii) |
+| [1727-cat-and-mouse-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [1916-find-center-of-star-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/ADITYABAMANE/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
@@ -885,6 +890,7 @@
 | [1013-fibonacci-number](https://github.com/ADITYABAMANE/Leetcode/tree/master/1013-fibonacci-number) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/ADITYABAMANE/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ADITYABAMANE/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1727-cat-and-mouse-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -940,6 +946,7 @@
 | [0210-course-schedule-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0210-course-schedule-ii) |
 | [1257-rank-transform-of-a-matrix](https://github.com/ADITYABAMANE/Leetcode/tree/master/1257-rank-transform-of-a-matrix) |
 | [1696-strange-printer-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/1696-strange-printer-ii) |
+| [1727-cat-and-mouse-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -972,6 +979,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [1727-cat-and-mouse-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [1808-stone-game-vii](https://github.com/ADITYABAMANE/Leetcode/tree/master/1808-stone-game-vii) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/ADITYABAMANE/Leetcode/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Doubly-Linked List
