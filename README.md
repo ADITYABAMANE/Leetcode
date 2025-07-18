@@ -64,6 +64,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1284-four-divisors](https://github.com/ADITYABAMANE/Leetcode/tree/master/1284-four-divisors) |
 | [1503-reducing-dishes](https://github.com/ADITYABAMANE/Leetcode/tree/master/1503-reducing-dishes) |
+| [1505-create-target-array-in-the-given-order](https://github.com/ADITYABAMANE/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/ADITYABAMANE/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
@@ -359,6 +360,7 @@
 | ------- |
 | [0068-text-justification](https://github.com/ADITYABAMANE/Leetcode/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/ADITYABAMANE/Leetcode/tree/master/0735-asteroid-collision) |
+| [1505-create-target-array-in-the-given-order](https://github.com/ADITYABAMANE/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/ADITYABAMANE/Leetcode/tree/master/1525-queries-on-a-permutation-with-key) |
 | [2470-removing-stars-from-a-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Dynamic Programming
