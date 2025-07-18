@@ -62,6 +62,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/ADITYABAMANE/Leetcode/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1284-four-divisors](https://github.com/ADITYABAMANE/Leetcode/tree/master/1284-four-divisors) |
 | [1503-reducing-dishes](https://github.com/ADITYABAMANE/Leetcode/tree/master/1503-reducing-dishes) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -95,6 +96,7 @@
 | [0870-magic-squares-in-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/ADITYABAMANE/Leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/ADITYABAMANE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1284-four-divisors](https://github.com/ADITYABAMANE/Leetcode/tree/master/1284-four-divisors) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/ADITYABAMANE/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ADITYABAMANE/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Divide and Conquer
