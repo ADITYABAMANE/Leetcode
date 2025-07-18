@@ -508,6 +508,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ADITYABAMANE/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ADITYABAMANE/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ADITYABAMANE/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2328-minimize-result-by-adding-parentheses-to-expression](https://github.com/ADITYABAMANE/Leetcode/tree/master/2328-minimize-result-by-adding-parentheses-to-expression) |
 | [2470-removing-stars-from-a-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2543-most-popular-video-creator](https://github.com/ADITYABAMANE/Leetcode/tree/master/2543-most-popular-video-creator) |
 | [2727-number-of-senior-citizens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -649,6 +650,7 @@
 | [2146-check-if-word-can-be-placed-in-crossword](https://github.com/ADITYABAMANE/Leetcode/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/ADITYABAMANE/Leetcode/tree/master/2272-maximum-good-people-based-on-statements) |
+| [2328-minimize-result-by-adding-parentheses-to-expression](https://github.com/ADITYABAMANE/Leetcode/tree/master/2328-minimize-result-by-adding-parentheses-to-expression) |
 ## Number Theory
 |  |
 | ------- |
