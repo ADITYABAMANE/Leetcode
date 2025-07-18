@@ -164,6 +164,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0870-magic-squares-in-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/ADITYABAMANE/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [0942-super-palindromes](https://github.com/ADITYABAMANE/Leetcode/tree/master/0942-super-palindromes) |
 | [1013-fibonacci-number](https://github.com/ADITYABAMANE/Leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/ADITYABAMANE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1284-four-divisors](https://github.com/ADITYABAMANE/Leetcode/tree/master/1284-four-divisors) |
@@ -529,6 +530,7 @@
 | [0692-top-k-frequent-words](https://github.com/ADITYABAMANE/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/0778-reorganize-string) |
 | [0834-ambiguous-coordinates](https://github.com/ADITYABAMANE/Leetcode/tree/master/0834-ambiguous-coordinates) |
+| [0942-super-palindromes](https://github.com/ADITYABAMANE/Leetcode/tree/master/0942-super-palindromes) |
 | [1524-string-matching-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/ADITYABAMANE/Leetcode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ADITYABAMANE/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -680,6 +682,7 @@
 | [0204-count-primes](https://github.com/ADITYABAMANE/Leetcode/tree/master/0204-count-primes) |
 | [0834-ambiguous-coordinates](https://github.com/ADITYABAMANE/Leetcode/tree/master/0834-ambiguous-coordinates) |
 | [0900-reordered-power-of-2](https://github.com/ADITYABAMANE/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [0942-super-palindromes](https://github.com/ADITYABAMANE/Leetcode/tree/master/0942-super-palindromes) |
 | [1726-coordinate-with-maximum-network-quality](https://github.com/ADITYABAMANE/Leetcode/tree/master/1726-coordinate-with-maximum-network-quality) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/ADITYABAMANE/Leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [2122-count-special-quadruplets](https://github.com/ADITYABAMANE/Leetcode/tree/master/2122-count-special-quadruplets) |
