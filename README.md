@@ -128,6 +128,7 @@
 | [2725-mice-and-cheese](https://github.com/ADITYABAMANE/Leetcode/tree/master/2725-mice-and-cheese) |
 | [2727-number-of-senior-citizens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2728-sum-in-a-matrix](https://github.com/ADITYABAMANE/Leetcode/tree/master/2728-sum-in-a-matrix) |
+| [2754-maximum-strength-of-a-group](https://github.com/ADITYABAMANE/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2810-collecting-chocolates](https://github.com/ADITYABAMANE/Leetcode/tree/master/2810-collecting-chocolates) |
 | [2868-continuous-subarrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3104-happy-students](https://github.com/ADITYABAMANE/Leetcode/tree/master/3104-happy-students) |
@@ -261,6 +262,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2725-mice-and-cheese](https://github.com/ADITYABAMANE/Leetcode/tree/master/2725-mice-and-cheese) |
 | [2728-sum-in-a-matrix](https://github.com/ADITYABAMANE/Leetcode/tree/master/2728-sum-in-a-matrix) |
+| [2754-maximum-strength-of-a-group](https://github.com/ADITYABAMANE/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [3104-happy-students](https://github.com/ADITYABAMANE/Leetcode/tree/master/3104-happy-students) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ADITYABAMANE/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3647-zero-array-transformation-iii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -658,6 +660,7 @@
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/ADITYABAMANE/Leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
+| [2754-maximum-strength-of-a-group](https://github.com/ADITYABAMANE/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/ADITYABAMANE/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/ADITYABAMANE/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
@@ -688,6 +691,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ADITYABAMANE/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/ADITYABAMANE/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2725-mice-and-cheese](https://github.com/ADITYABAMANE/Leetcode/tree/master/2725-mice-and-cheese) |
+| [2754-maximum-strength-of-a-group](https://github.com/ADITYABAMANE/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/ADITYABAMANE/Leetcode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3195-separate-black-and-white-balls](https://github.com/ADITYABAMANE/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3289-earliest-second-to-mark-indices-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3289-earliest-second-to-mark-indices-ii) |
@@ -735,6 +739,7 @@
 | [2272-maximum-good-people-based-on-statements](https://github.com/ADITYABAMANE/Leetcode/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2328-minimize-result-by-adding-parentheses-to-expression](https://github.com/ADITYABAMANE/Leetcode/tree/master/2328-minimize-result-by-adding-parentheses-to-expression) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
+| [2754-maximum-strength-of-a-group](https://github.com/ADITYABAMANE/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2810-collecting-chocolates](https://github.com/ADITYABAMANE/Leetcode/tree/master/2810-collecting-chocolates) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/ADITYABAMANE/Leetcode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3104-happy-students](https://github.com/ADITYABAMANE/Leetcode/tree/master/3104-happy-students) |
@@ -796,6 +801,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ADITYABAMANE/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ADITYABAMANE/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/ADITYABAMANE/Leetcode/tree/master/2272-maximum-good-people-based-on-statements) |
+| [2754-maximum-strength-of-a-group](https://github.com/ADITYABAMANE/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 ## Data Stream
 |  |
 | ------- |
@@ -944,6 +950,7 @@
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/ADITYABAMANE/Leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ADITYABAMANE/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/ADITYABAMANE/Leetcode/tree/master/2272-maximum-good-people-based-on-statements) |
+| [2754-maximum-strength-of-a-group](https://github.com/ADITYABAMANE/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/ADITYABAMANE/Leetcode/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ADITYABAMANE/Leetcode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
