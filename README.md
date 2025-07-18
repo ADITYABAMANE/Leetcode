@@ -191,6 +191,7 @@
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ADITYABAMANE/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
+| [3386-find-edges-in-shortest-paths](https://github.com/ADITYABAMANE/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 ## Quickselect
 |  |
 | ------- |
@@ -554,6 +555,7 @@
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ADITYABAMANE/Leetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/2671-shortest-cycle-in-a-graph) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3386-find-edges-in-shortest-paths](https://github.com/ADITYABAMANE/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -579,6 +581,7 @@
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ADITYABAMANE/Leetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/ADITYABAMANE/Leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3386-find-edges-in-shortest-paths](https://github.com/ADITYABAMANE/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -609,6 +612,7 @@
 | [2677-cousins-in-binary-tree-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3386-find-edges-in-shortest-paths](https://github.com/ADITYABAMANE/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 ## Trie
 |  |
 | ------- |
@@ -674,4 +678,8 @@
 |  |
 | ------- |
 | [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
+## Shortest Path
+|  |
+| ------- |
+| [3386-find-edges-in-shortest-paths](https://github.com/ADITYABAMANE/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 <!---LeetCode Topics End-->
