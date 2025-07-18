@@ -179,6 +179,7 @@
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1727-cat-and-mouse-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [1733-maximum-number-of-visible-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
+| [1806-count-of-matches-in-tournament](https://github.com/ADITYABAMANE/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1808-stone-game-vii](https://github.com/ADITYABAMANE/Leetcode/tree/master/1808-stone-game-vii) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/ADITYABAMANE/Leetcode/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
@@ -596,6 +597,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/ADITYABAMANE/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/ADITYABAMANE/Leetcode/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/ADITYABAMANE/Leetcode/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
+| [1806-count-of-matches-in-tournament](https://github.com/ADITYABAMANE/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2470-removing-stars-from-a-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/ADITYABAMANE/Leetcode/tree/master/2728-sum-in-a-matrix) |
