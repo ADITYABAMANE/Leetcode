@@ -84,6 +84,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/ADITYABAMANE/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1696-strange-printer-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/1696-strange-printer-ii) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ADITYABAMANE/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ADITYABAMANE/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -415,6 +416,7 @@
 | [1503-reducing-dishes](https://github.com/ADITYABAMANE/Leetcode/tree/master/1503-reducing-dishes) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/ADITYABAMANE/Leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ADITYABAMANE/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
 ## Greedy
 |  |
 | ------- |
@@ -469,6 +471,7 @@
 | [1036-rotting-oranges](https://github.com/ADITYABAMANE/Leetcode/tree/master/1036-rotting-oranges) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1696-strange-printer-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/1696-strange-printer-ii) |
+| [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
 ## Backtracking
 |  |
 | ------- |
@@ -549,6 +552,7 @@
 | [0137-single-number-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/ADITYABAMANE/Leetcode/tree/master/0268-missing-number) |
 | [1487-cinema-seat-allocation](https://github.com/ADITYABAMANE/Leetcode/tree/master/1487-cinema-seat-allocation) |
+| [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -575,4 +579,8 @@
 |  |
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ADITYABAMANE/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Bitmask
+|  |
+| ------- |
+| [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
 <!---LeetCode Topics End-->
