@@ -192,6 +192,7 @@
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/ADITYABAMANE/Leetcode/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ADITYABAMANE/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [3199-distribute-candies-among-children-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/ADITYABAMANE/Leetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/ADITYABAMANE/Leetcode/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/ADITYABAMANE/Leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
@@ -727,6 +728,7 @@
 | [2272-maximum-good-people-based-on-statements](https://github.com/ADITYABAMANE/Leetcode/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2328-minimize-result-by-adding-parentheses-to-expression](https://github.com/ADITYABAMANE/Leetcode/tree/master/2328-minimize-result-by-adding-parentheses-to-expression) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
+| [3199-distribute-candies-among-children-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/ADITYABAMANE/Leetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
@@ -974,6 +976,7 @@
 | [1836-count-ways-to-make-array-with-product](https://github.com/ADITYABAMANE/Leetcode/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/ADITYABAMANE/Leetcode/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ADITYABAMANE/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3199-distribute-candies-among-children-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3783-permutations-iv](https://github.com/ADITYABAMANE/Leetcode/tree/master/3783-permutations-iv) |
 ## Bitmask
 |  |
