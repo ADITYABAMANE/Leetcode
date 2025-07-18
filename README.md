@@ -85,6 +85,7 @@
 | [1696-strange-printer-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/1696-strange-printer-ii) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
+| [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/ADITYABAMANE/Leetcode/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ADITYABAMANE/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ADITYABAMANE/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -389,6 +390,7 @@
 | [0735-asteroid-collision](https://github.com/ADITYABAMANE/Leetcode/tree/master/0735-asteroid-collision) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ADITYABAMANE/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/ADITYABAMANE/Leetcode/tree/master/1525-queries-on-a-permutation-with-key) |
+| [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/ADITYABAMANE/Leetcode/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
 | [2470-removing-stars-from-a-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
