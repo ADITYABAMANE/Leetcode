@@ -119,6 +119,7 @@
 | [2868-continuous-subarrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/ADITYABAMANE/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3289-earliest-second-to-mark-indices-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3289-earliest-second-to-mark-indices-ii) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/ADITYABAMANE/Leetcode/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/ADITYABAMANE/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
@@ -239,6 +240,7 @@
 | [2868-continuous-subarrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/ADITYABAMANE/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3289-earliest-second-to-mark-indices-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3289-earliest-second-to-mark-indices-ii) |
 | [3386-find-edges-in-shortest-paths](https://github.com/ADITYABAMANE/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
@@ -291,6 +293,7 @@
 | [0907-koko-eating-bananas](https://github.com/ADITYABAMANE/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ADITYABAMANE/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [3289-earliest-second-to-mark-indices-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3289-earliest-second-to-mark-indices-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -572,6 +575,7 @@
 | [2636-maximum-subsequence-score](https://github.com/ADITYABAMANE/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2725-mice-and-cheese](https://github.com/ADITYABAMANE/Leetcode/tree/master/2725-mice-and-cheese) |
 | [3195-separate-black-and-white-balls](https://github.com/ADITYABAMANE/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3289-earliest-second-to-mark-indices-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3289-earliest-second-to-mark-indices-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/ADITYABAMANE/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Bucket Sort
