@@ -101,10 +101,9 @@
 | [2122-count-special-quadruplets](https://github.com/ADITYABAMANE/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2146-check-if-word-can-be-placed-in-crossword](https://github.com/ADITYABAMANE/Leetcode/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/ADITYABAMANE/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
+| [2241-recover-the-original-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/2241-recover-the-original-array) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
-| [2272-maximum-good-people-based-on-statements](https://github.com/ADITYABAMANE/Leetcode/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ADITYABAMANE/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
-| [2330-maximum-total-beauty-of-the-gardens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ADITYABAMANE/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ADITYABAMANE/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2543-most-popular-video-creator](https://github.com/ADITYABAMANE/Leetcode/tree/master/2543-most-popular-video-creator) |
@@ -130,20 +129,15 @@
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/ADITYABAMANE/Leetcode/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
-| [3594-identify-the-largest-outlier-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/ADITYABAMANE/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3647-zero-array-transformation-iii) |
-| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
-| [3751-maximum-frequency-after-subarray-operation](https://github.com/ADITYABAMANE/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
-| [3783-permutations-iv](https://github.com/ADITYABAMANE/Leetcode/tree/master/3783-permutations-iv) |
 | [3809-properties-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/3809-properties-graph) |
 | [3837-grid-teleportation-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/3837-grid-teleportation-traversal) |
-| [3849-equal-sum-grid-partition-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3863-power-grid-maintenance](https://github.com/ADITYABAMANE/Leetcode/tree/master/3863-power-grid-maintenance) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ADITYABAMANE/Leetcode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/ADITYABAMANE/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
@@ -171,11 +165,8 @@
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1733-maximum-number-of-visible-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
-| [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/ADITYABAMANE/Leetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/ADITYABAMANE/Leetcode/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/ADITYABAMANE/Leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
-| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
-| [3783-permutations-iv](https://github.com/ADITYABAMANE/Leetcode/tree/master/3783-permutations-iv) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ADITYABAMANE/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Divide and Conquer
 |  |
@@ -191,7 +182,6 @@
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/ADITYABAMANE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1733-maximum-number-of-visible-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
-| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Sorting
 |  |
 | ------- |
@@ -221,7 +211,7 @@
 | [1733-maximum-number-of-visible-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
 | [1752-arithmetic-subarrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
-| [2330-maximum-total-beauty-of-the-gardens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
+| [2241-recover-the-original-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/2241-recover-the-original-array) |
 | [2543-most-popular-video-creator](https://github.com/ADITYABAMANE/Leetcode/tree/master/2543-most-popular-video-creator) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ADITYABAMANE/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
@@ -232,7 +222,6 @@
 | [2728-sum-in-a-matrix](https://github.com/ADITYABAMANE/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ADITYABAMANE/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3647-zero-array-transformation-iii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3647-zero-array-transformation-iii) |
-| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/ADITYABAMANE/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
@@ -312,10 +301,9 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ADITYABAMANE/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
-| [2330-maximum-total-beauty-of-the-gardens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
+| [2241-recover-the-original-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/2241-recover-the-original-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ADITYABAMANE/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3195-separate-black-and-white-balls](https://github.com/ADITYABAMANE/Leetcode/tree/master/3195-separate-black-and-white-balls) |
-| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -330,7 +318,6 @@
 | [0907-koko-eating-bananas](https://github.com/ADITYABAMANE/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ADITYABAMANE/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
-| [2330-maximum-total-beauty-of-the-gardens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [3289-earliest-second-to-mark-indices-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3289-earliest-second-to-mark-indices-ii) |
 ## Sliding Window
 |  |
@@ -346,7 +333,6 @@
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
-| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -378,6 +364,7 @@
 | [1752-arithmetic-subarrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2122-count-special-quadruplets](https://github.com/ADITYABAMANE/Leetcode/tree/master/2122-count-special-quadruplets) |
+| [2241-recover-the-original-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/2241-recover-the-original-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ADITYABAMANE/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/ADITYABAMANE/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ADITYABAMANE/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -387,9 +374,7 @@
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ADITYABAMANE/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
-| [3594-identify-the-largest-outlier-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
-| [3751-maximum-frequency-after-subarray-operation](https://github.com/ADITYABAMANE/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3809-properties-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/3809-properties-graph) |
 | [3837-grid-teleportation-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/3837-grid-teleportation-traversal) |
@@ -415,7 +400,6 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ADITYABAMANE/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ADITYABAMANE/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
-| [3594-identify-the-largest-outlier-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ADITYABAMANE/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Recursion
 |  |
@@ -527,16 +511,12 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ADITYABAMANE/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ADITYABAMANE/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ADITYABAMANE/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
-| [2328-minimize-result-by-adding-parentheses-to-expression](https://github.com/ADITYABAMANE/Leetcode/tree/master/2328-minimize-result-by-adding-parentheses-to-expression) |
 | [2470-removing-stars-from-a-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2543-most-popular-video-creator](https://github.com/ADITYABAMANE/Leetcode/tree/master/2543-most-popular-video-creator) |
 | [2727-number-of-senior-citizens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3195-separate-black-and-white-balls](https://github.com/ADITYABAMANE/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ADITYABAMANE/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/ADITYABAMANE/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
-| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
-| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
-| [3805-maximize-active-section-with-trade-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Queue
 |  |
 | ------- |
@@ -611,7 +591,6 @@
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/ADITYABAMANE/Leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/ADITYABAMANE/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
-| [3751-maximum-frequency-after-subarray-operation](https://github.com/ADITYABAMANE/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3896-minimum-time-to-transport-all-individuals](https://github.com/ADITYABAMANE/Leetcode/tree/master/3896-minimum-time-to-transport-all-individuals) |
 ## Greedy
 |  |
@@ -632,17 +611,14 @@
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/ADITYABAMANE/Leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ADITYABAMANE/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ADITYABAMANE/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
-| [2330-maximum-total-beauty-of-the-gardens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ADITYABAMANE/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/ADITYABAMANE/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2725-mice-and-cheese](https://github.com/ADITYABAMANE/Leetcode/tree/master/2725-mice-and-cheese) |
 | [3195-separate-black-and-white-balls](https://github.com/ADITYABAMANE/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3289-earliest-second-to-mark-indices-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3289-earliest-second-to-mark-indices-ii) |
-| [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/ADITYABAMANE/Leetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ADITYABAMANE/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3647-zero-array-transformation-iii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3647-zero-array-transformation-iii) |
-| [3751-maximum-frequency-after-subarray-operation](https://github.com/ADITYABAMANE/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/ADITYABAMANE/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Bucket Sort
@@ -675,18 +651,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ADITYABAMANE/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2146-check-if-word-can-be-placed-in-crossword](https://github.com/ADITYABAMANE/Leetcode/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
-| [2272-maximum-good-people-based-on-statements](https://github.com/ADITYABAMANE/Leetcode/tree/master/2272-maximum-good-people-based-on-statements) |
-| [2328-minimize-result-by-adding-parentheses-to-expression](https://github.com/ADITYABAMANE/Leetcode/tree/master/2328-minimize-result-by-adding-parentheses-to-expression) |
-| [2330-maximum-total-beauty-of-the-gardens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
-| [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/ADITYABAMANE/Leetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
-| [3594-identify-the-largest-outlier-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
-| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
-| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
-| [3751-maximum-frequency-after-subarray-operation](https://github.com/ADITYABAMANE/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
-| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
-| [3783-permutations-iv](https://github.com/ADITYABAMANE/Leetcode/tree/master/3783-permutations-iv) |
-| [3805-maximize-active-section-with-trade-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3805-maximize-active-section-with-trade-i) |
-| [3849-equal-sum-grid-partition-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
+| [2241-recover-the-original-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/2241-recover-the-original-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -717,7 +682,6 @@
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3837-grid-teleportation-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/3837-grid-teleportation-traversal) |
-| [3849-equal-sum-grid-partition-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ADITYABAMANE/Leetcode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
 |  |
@@ -727,7 +691,6 @@
 | [0093-restore-ip-addresses](https://github.com/ADITYABAMANE/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0834-ambiguous-coordinates](https://github.com/ADITYABAMANE/Leetcode/tree/master/0834-ambiguous-coordinates) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ADITYABAMANE/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
-| [2272-maximum-good-people-based-on-statements](https://github.com/ADITYABAMANE/Leetcode/tree/master/2272-maximum-good-people-based-on-statements) |
 ## Data Stream
 |  |
 | ------- |
@@ -872,7 +835,6 @@
 | [1487-cinema-seat-allocation](https://github.com/ADITYABAMANE/Leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/ADITYABAMANE/Leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
-| [2272-maximum-good-people-based-on-statements](https://github.com/ADITYABAMANE/Leetcode/tree/master/2272-maximum-good-people-based-on-statements) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/ADITYABAMANE/Leetcode/tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/ADITYABAMANE/Leetcode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3896-minimum-time-to-transport-all-individuals](https://github.com/ADITYABAMANE/Leetcode/tree/master/3896-minimum-time-to-transport-all-individuals) |
@@ -884,12 +846,8 @@
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/ADITYABAMANE/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ADITYABAMANE/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
-| [2330-maximum-total-beauty-of-the-gardens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3647-zero-array-transformation-iii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3647-zero-array-transformation-iii) |
-| [3751-maximum-frequency-after-subarray-operation](https://github.com/ADITYABAMANE/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
-| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
-| [3849-equal-sum-grid-partition-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## String Matching
 |  |
 | ------- |
@@ -906,12 +864,10 @@
 |  |
 | ------- |
 | [1525-queries-on-a-permutation-with-key](https://github.com/ADITYABAMANE/Leetcode/tree/master/1525-queries-on-a-permutation-with-key) |
-| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Combinatorics
 |  |
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ADITYABAMANE/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
-| [3783-permutations-iv](https://github.com/ADITYABAMANE/Leetcode/tree/master/3783-permutations-iv) |
 ## Bitmask
 |  |
 | ------- |
@@ -937,8 +893,4 @@
 |  |
 | ------- |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
-## Segment Tree
-|  |
-| ------- |
-| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 <!---LeetCode Topics End-->
