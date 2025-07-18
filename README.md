@@ -105,6 +105,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ADITYABAMANE/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2543-most-popular-video-creator](https://github.com/ADITYABAMANE/Leetcode/tree/master/2543-most-popular-video-creator) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/ADITYABAMANE/Leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2727-number-of-senior-citizens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -188,6 +189,7 @@
 | [1752-arithmetic-subarrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2543-most-popular-video-creator](https://github.com/ADITYABAMANE/Leetcode/tree/master/2543-most-popular-video-creator) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -210,6 +212,7 @@
 | [2413-smallest-number-in-infinite-set](https://github.com/ADITYABAMANE/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/ADITYABAMANE/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2543-most-popular-video-creator](https://github.com/ADITYABAMANE/Leetcode/tree/master/2543-most-popular-video-creator) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [3386-find-edges-in-shortest-paths](https://github.com/ADITYABAMANE/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -526,6 +529,7 @@
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/ADITYABAMANE/Leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/ADITYABAMANE/Leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ADITYABAMANE/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [3195-separate-black-and-white-balls](https://github.com/ADITYABAMANE/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/ADITYABAMANE/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
@@ -604,6 +608,7 @@
 | [2445-reachable-nodes-with-restrictions](https://github.com/ADITYABAMANE/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ADITYABAMANE/Leetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/2671-shortest-cycle-in-a-graph) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3386-find-edges-in-shortest-paths](https://github.com/ADITYABAMANE/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
