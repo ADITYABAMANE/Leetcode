@@ -96,6 +96,7 @@
 | [1733-maximum-number-of-visible-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ADITYABAMANE/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1752-arithmetic-subarrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1752-arithmetic-subarrays) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1788-stone-game-vi](https://github.com/ADITYABAMANE/Leetcode/tree/master/1788-stone-game-vi) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1808-stone-game-vii](https://github.com/ADITYABAMANE/Leetcode/tree/master/1808-stone-game-vii) |
@@ -180,6 +181,7 @@
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1727-cat-and-mouse-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/1727-cat-and-mouse-ii) |
 | [1733-maximum-number-of-visible-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1788-stone-game-vi](https://github.com/ADITYABAMANE/Leetcode/tree/master/1788-stone-game-vi) |
 | [1806-count-of-matches-in-tournament](https://github.com/ADITYABAMANE/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1808-stone-game-vii](https://github.com/ADITYABAMANE/Leetcode/tree/master/1808-stone-game-vii) |
@@ -935,6 +937,7 @@
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/ADITYABAMANE/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/ADITYABAMANE/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ADITYABAMANE/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
