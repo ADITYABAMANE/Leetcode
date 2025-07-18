@@ -175,6 +175,7 @@
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1733-maximum-number-of-visible-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/ADITYABAMANE/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1879-maximum-score-from-removing-stones](https://github.com/ADITYABAMANE/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/ADITYABAMANE/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ADITYABAMANE/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -392,6 +393,7 @@
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1752-arithmetic-subarrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/ADITYABAMANE/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2122-count-special-quadruplets](https://github.com/ADITYABAMANE/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ADITYABAMANE/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/ADITYABAMANE/Leetcode/tree/master/2434-design-a-number-container-system) |
@@ -429,6 +431,7 @@
 | [0778-reorganize-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/ADITYABAMANE/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/ADITYABAMANE/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ADITYABAMANE/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ADITYABAMANE/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
