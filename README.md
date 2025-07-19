@@ -237,6 +237,7 @@
 | [0229-majority-element-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ADITYABAMANE/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ADITYABAMANE/Leetcode/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/ADITYABAMANE/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -279,6 +280,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ADITYABAMANE/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/ADITYABAMANE/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ADITYABAMANE/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -342,6 +344,7 @@
 | [0088-merge-sorted-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ADITYABAMANE/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ADITYABAMANE/Leetcode/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/ADITYABAMANE/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/ADITYABAMANE/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ADITYABAMANE/Leetcode/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/ADITYABAMANE/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -444,6 +447,7 @@
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ADITYABAMANE/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ADITYABAMANE/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ADITYABAMANE/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ADITYABAMANE/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -814,6 +818,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ADITYABAMANE/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ADITYABAMANE/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Graph
 |  |
