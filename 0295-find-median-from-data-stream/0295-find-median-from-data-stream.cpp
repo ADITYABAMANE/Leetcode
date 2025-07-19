@@ -1,26 +1,37 @@
 class MedianFinder {
 public:
-    multiset<int> arr; // Use multiset in case duplicates are allowed
-
+multiset<int>m;
     MedianFinder() {
+        
     }
-
+    
     void addNum(int num) {
-        arr.insert(num);
+        m.insert(num);
+        
     }
-
+    
     double findMedian() {
-        int n = arr.size();
-        auto it = arr.begin();
+        int n=m.size();
 
-        advance(it, n / 2);
+        auto it=m.begin();
+        advance(it,n/2);
 
-        if (n % 2 == 0) {
-            auto it2 = it;
-            --it2; // points to (n/2 - 1)th element
-            return (*it + *it2) / 2.0;
-        } else {
-            return *it;
+        auto it2=it;
+        it2--;
+        if(n%2==0){
+            double median=(*it + *it2)/2.0;
+            return median;
         }
+
+        return *it;
+
+        
     }
 };
+
+/**
+ * Your MedianFinder object will be instantiated and called as such:
+ * MedianFinder* obj = new MedianFinder();
+ * obj->addNum(num);
+ * double param_2 = obj->findMedian();
+ */
