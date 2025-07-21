@@ -1,43 +1,42 @@
 class Solution {
 public:
 
+vector<vector<int>>res;
 
+void dfs(int ind, vector<int>& nums ,vector<int>&subset){
+   
 
-
-
-    void solve(int ind,vector<int>& nums, vector<int>&temp,vector<vector<int>>& res){
-        int n=nums.size();
-
-        if(ind>=n){
-            res.push_back(temp);
-            return ;
-
-        }
-
-        temp.push_back(nums[ind]);
-        solve(ind+1,nums,temp,res);
-        temp.pop_back();
-        solve(ind+1,nums,temp,res);
-
-
-
-
-
-
+    if(ind>=nums.size()){
+        res.push_back(subset);
+        return ;
     }
+
+    subset.push_back(nums[ind]);
+    dfs(ind+1,nums,subset);
+    subset.pop_back();
+    dfs(ind+1,nums,subset);
+
+
+
+
+}
+
+
+
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
-         vector<vector<int>>res;
-        vector<int>temp;
-        sort(nums.begin(), nums.end());
+        vector<int>subset;
+        
 
-         solve(0,nums,temp,res);
+        sort(nums.begin(),nums.end());
 
+
+        dfs(0,nums,subset);
          set<vector<int>>st(res.begin(),res.end());
+         vector<vector<int>>finalans(st.begin(),st.end());
 
-         vector<vector<int>>ans(st.begin(),st.end());
+         return finalans;
 
-         return ans;
-         
+        
         
         
     }
