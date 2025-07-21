@@ -575,6 +575,7 @@
 | [0778-reorganize-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/0778-reorganize-string) |
 | [0834-ambiguous-coordinates](https://github.com/ADITYABAMANE/Leetcode/tree/master/0834-ambiguous-coordinates) |
 | [0942-super-palindromes](https://github.com/ADITYABAMANE/Leetcode/tree/master/0942-super-palindromes) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ADITYABAMANE/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1524-string-matching-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/ADITYABAMANE/Leetcode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
