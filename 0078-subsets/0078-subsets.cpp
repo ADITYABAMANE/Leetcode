@@ -25,11 +25,16 @@ public:
 
 
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>>res;
+       vector<vector<int>>res;
         vector<int>temp;
+        sort(nums.begin(), nums.end());
 
          solve(0,nums,temp,res);
-         return res;
-        
+
+         set<vector<int>>st(res.begin(),res.end());
+
+         vector<vector<int>>ans(st.begin(),st.end());
+
+         return ans;
     }
 };
