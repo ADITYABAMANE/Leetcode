@@ -55,6 +55,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0695-max-area-of-island](https://github.com/ADITYABAMANE/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ADITYABAMANE/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ADITYABAMANE/Leetcode/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -793,6 +794,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ADITYABAMANE/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/ADITYABAMANE/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ADITYABAMANE/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ADITYABAMANE/Leetcode/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1036-rotting-oranges](https://github.com/ADITYABAMANE/Leetcode/tree/master/1036-rotting-oranges) |
@@ -880,6 +882,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ADITYABAMANE/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/ADITYABAMANE/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ADITYABAMANE/Leetcode/tree/master/0733-flood-fill) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ADITYABAMANE/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/ADITYABAMANE/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -913,6 +916,7 @@
 | [0322-coin-change](https://github.com/ADITYABAMANE/Leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/ADITYABAMANE/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/ADITYABAMANE/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ADITYABAMANE/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ADITYABAMANE/Leetcode/tree/master/1036-rotting-oranges) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/ADITYABAMANE/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -961,6 +965,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ADITYABAMANE/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ADITYABAMANE/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ADITYABAMANE/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/ADITYABAMANE/Leetcode/tree/master/0695-max-area-of-island) |
 | [1257-rank-transform-of-a-matrix](https://github.com/ADITYABAMANE/Leetcode/tree/master/1257-rank-transform-of-a-matrix) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ADITYABAMANE/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
