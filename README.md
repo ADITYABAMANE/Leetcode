@@ -133,6 +133,7 @@
 | [2725-mice-and-cheese](https://github.com/ADITYABAMANE/Leetcode/tree/master/2725-mice-and-cheese) |
 | [2727-number-of-senior-citizens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2728-sum-in-a-matrix](https://github.com/ADITYABAMANE/Leetcode/tree/master/2728-sum-in-a-matrix) |
+| [2737-row-with-maximum-ones](https://github.com/ADITYABAMANE/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2754-maximum-strength-of-a-group](https://github.com/ADITYABAMANE/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2810-collecting-chocolates](https://github.com/ADITYABAMANE/Leetcode/tree/master/2810-collecting-chocolates) |
 | [2868-continuous-subarrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/2868-continuous-subarrays) |
@@ -816,6 +817,7 @@
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/ADITYABAMANE/Leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2728-sum-in-a-matrix](https://github.com/ADITYABAMANE/Leetcode/tree/master/2728-sum-in-a-matrix) |
+| [2737-row-with-maximum-ones](https://github.com/ADITYABAMANE/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
