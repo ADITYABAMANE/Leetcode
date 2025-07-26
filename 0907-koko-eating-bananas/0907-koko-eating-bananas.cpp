@@ -1,39 +1,32 @@
 class Solution {
 public:
-
-    bool caneatall(vector<int>&piles,int mid,int h){
-        long long actualhrs=0;
-
-        for(auto  it:piles){
-            actualhrs+=it/mid;
-            if(it%mid!=0){
-                actualhrs++;
-
-            }
-
-        }
-        return actualhrs<=h;
-
-
-    }
     int minEatingSpeed(vector<int>& piles, int h) {
         int n=piles.size();
-        int l=1;
-        int r=*max_element(piles.begin(),piles.end());
-        while(l<r){
-            int mid=l+(r-l)/2;
-            if(caneatall(piles,mid,h)){
-                r=mid;
+        
+        // int min_ele=*min_element(piles.begin(),piles.end());
+        int max_ele=*max_element(piles.begin(),piles.end());
+        int ns=0;
 
+        for(int i=1;i<max_ele;i++){
+            long long cnh=0;
+
+            for(int j=0;j<piles.size();j++){
+                cnh+= (piles[j] +  i- 1) / i;
 
             }
-            else{
-                l=mid+1;
-            }
+             if(cnh<=h){
+               return i;
+
+             }
+
+
+            
+
 
         }
-        return l;
-
+        return max_ele;
+       
+        
         
     }
 };
