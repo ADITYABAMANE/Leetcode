@@ -1,42 +1,37 @@
 class Solution {
 public:
 
-
-    int solve(string &s, int ind, int n,vector<int>&dp){
+    int solve(string &str,int ind, int &n,vector<int>&dp){
         if(ind==n){
             return 1;
+
         }
-        if(s[ind]=='0'){
+        if(str[ind]=='0'){
             return 0;
         }
         if(dp[ind]!=-1){
             return dp[ind];
         }
-
-        int pick_ith_index=solve(s,ind+1,n,dp);
-        int pick_ith_and_iplusoneth_index=0;
+        int pick_one_digit=solve(str, ind+1,n,dp);
+        int pick_two_digit=0;
 
         if(ind+1<n){
 
-        if(s[ind]== '1' || ( s[ind] == '2' && s[ind+1]<= '6' )){
+        if(str[ind]=='1' || (str[ind]=='2' && str[ind+1]<='6')){
 
-        pick_ith_and_iplusoneth_index=solve(s,ind+2,n,dp);}}
-
-
-        return dp[ind]= pick_ith_index+ pick_ith_and_iplusoneth_index;
+        pick_two_digit=solve(str, ind+2,n,dp);}}
 
 
-
-
+        return dp[ind]=pick_one_digit + pick_two_digit;
 
 
     }
+
     int numDecodings(string s) {
         int n=s.length();
         vector<int>dp(n,-1);
 
-        return solve(s, 0,n,dp);
-
+        return solve (s, 0, n,dp);
         
     }
 };
