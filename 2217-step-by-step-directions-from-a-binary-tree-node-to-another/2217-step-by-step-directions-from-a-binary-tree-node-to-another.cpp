@@ -12,85 +12,65 @@
 class Solution {
 public:
 
-   bool pathi(TreeNode*adi, int target,string &path
-         ){
+     bool findpath(TreeNode* node, int target, string &path){
 
-            if(adi==NULL){
-                return false;
-            }
-            if(adi->val==target){
-                return true;
-            }
-            ///exploring the left subtree
-            path.push_back('L');
-            if(pathi(adi->left,target,path)==true){
-                return true;
-            }
-
-            path.pop_back();
-
-             ///exploring the left subtree
-            path.push_back('R');
-            if(pathi(adi->right,target,path)==true){
-                return true;
-            }
-
-            path.pop_back();
-
+        if(node==NULL){
             return false;
+        }
+        if(node->val==target){
+            return true;
+        }
+        //exploring left 
 
+        path.push_back('L');
 
+        if(findpath(node->left,target,path )==true){
+            return true;
+        }
+        path.pop_back();
 
-            
-
-
-
-
-   }
-
-    TreeNode* findLCA(TreeNode* node, int p, int q){
-        if(node==NULL || node->val==p || node->val==q){
-            return node;
+        //exploring the right
+        path.push_back('R');
+        if(findpath(node->right,target,path )==true){
+            return true;
         }
 
-        TreeNode*left=findLCA(node->left,p,q);
-        TreeNode* right= findLCA(node->right,p,q);
-
-        if(!left){
-            return right;
-        }
-        else if(!right){
-            return left;
-        }
-        else{
-            return node;
-        }
+        path.pop_back();
 
 
 
-    }
+
+        return false;
+        
+
+
+
+
+     }
+
+
 
     string getDirections(TreeNode* root, int startValue, int destValue) {
 
-        TreeNode*LCA = findLCA(root,startValue , destValue);
+        string rts="";
+        string rtd="";
 
-        string lca_to_src="";
-        string lca_to_des="";
-        string res="";
+        findpath(root,startValue,rts );
+        findpath(root,destValue,rtd );
 
-        pathi(LCA,startValue , lca_to_src );
-        pathi(LCA,destValue , lca_to_des);
-
-
-        for(int i=0;i<lca_to_src.length();i++){
-            res+='U';
+        int l=0;
+        while(l<rts.length() && l<rtd.length() && rts[l]==rtd[l]){
+           l++;
         }
 
-        res+=lca_to_des;
-
-
+        string res="";
+        for(int i=l;i<rts.length();i++){
+            res.push_back('U');
+        }
+        for(int i=l;i<rtd.length();i++){
+            res+=rtd[i];
+        }
         return res;
-        
 
         
     }
