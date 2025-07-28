@@ -176,6 +176,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ADITYABAMANE/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/ADITYABAMANE/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/ADITYABAMANE/Leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/ADITYABAMANE/Leetcode/tree/master/0263-ugly-number) |
@@ -664,6 +665,7 @@
 | [0044-wildcard-matching](https://github.com/ADITYABAMANE/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ADITYABAMANE/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ADITYABAMANE/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/ADITYABAMANE/Leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ADITYABAMANE/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -1044,6 +1046,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ADITYABAMANE/Leetcode/tree/master/0062-unique-paths) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ADITYABAMANE/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/ADITYABAMANE/Leetcode/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/ADITYABAMANE/Leetcode/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
