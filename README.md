@@ -21,6 +21,7 @@
 | [0055-jump-game](https://github.com/ADITYABAMANE/Leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/ADITYABAMANE/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/ADITYABAMANE/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ADITYABAMANE/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ADITYABAMANE/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -374,6 +375,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ADITYABAMANE/Leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/ADITYABAMANE/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/ADITYABAMANE/Leetcode/tree/master/0268-missing-number) |
@@ -804,6 +806,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ADITYABAMANE/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ADITYABAMANE/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/ADITYABAMANE/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ADITYABAMANE/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ADITYABAMANE/Leetcode/tree/master/0733-flood-fill) |
