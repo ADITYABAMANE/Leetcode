@@ -1,8 +1,7 @@
 class Solution {
 public:
-    void solve(int ind,vector<int>& nums, vector<int>&temp,vector<vector<int>>& res){
-        int n=nums.size();
-
+    void solve(vector<int>nums,int ind,int n,vector<int>&temp,vector<vector<int>>&res){
+        n=nums.size();
         if(ind>=n){
             res.push_back(temp);
             return ;
@@ -10,31 +9,27 @@ public:
         }
 
         temp.push_back(nums[ind]);
-        solve(ind+1,nums,temp,res);
+        solve(nums,ind+1,n,temp,res);
         temp.pop_back();
-        solve(ind+1,nums,temp,res);
-
-
-
-
-
+        solve(nums,ind+1,n,temp,res);
 
     }
-
-
-
-
+    
     vector<vector<int>> subsets(vector<int>& nums) {
-       vector<vector<int>>res;
+        int n=nums.size();
         vector<int>temp;
-        sort(nums.begin(), nums.end());
+            vector<vector<int>>res;
+            
+        
+            solve(nums, 0, n,temp,res);
+            set<vector<int>>st(res.begin(),res.end());
+            vector<vector<int>>final(st.begin(),st.end());
 
-         solve(0,nums,temp,res);
+            return final;
 
-         set<vector<int>>st(res.begin(),res.end());
 
-         vector<vector<int>>ans(st.begin(),st.end());
 
-         return ans;
+
+
     }
 };
