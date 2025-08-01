@@ -444,6 +444,7 @@
 | [2434-design-a-number-container-system](https://github.com/ADITYABAMANE/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ADITYABAMANE/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ADITYABAMANE/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ADITYABAMANE/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2543-most-popular-video-creator](https://github.com/ADITYABAMANE/Leetcode/tree/master/2543-most-popular-video-creator) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -530,6 +531,7 @@
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/ADITYABAMANE/Leetcode/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ADITYABAMANE/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ADITYABAMANE/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ADITYABAMANE/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ADITYABAMANE/Leetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -568,6 +570,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ADITYABAMANE/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ADITYABAMANE/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ADITYABAMANE/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## String
@@ -918,6 +921,7 @@
 | [2121-find-if-path-exists-in-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ADITYABAMANE/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ADITYABAMANE/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ADITYABAMANE/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ADITYABAMANE/Leetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/ADITYABAMANE/Leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
@@ -953,6 +957,7 @@
 | [2121-find-if-path-exists-in-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/ADITYABAMANE/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ADITYABAMANE/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ADITYABAMANE/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ADITYABAMANE/Leetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ADITYABAMANE/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
