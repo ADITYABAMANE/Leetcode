@@ -517,6 +517,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ADITYABAMANE/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ADITYABAMANE/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ADITYABAMANE/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -560,6 +561,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ADITYABAMANE/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ADITYABAMANE/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ADITYABAMANE/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -769,6 +771,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/ADITYABAMANE/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/ADITYABAMANE/Leetcode/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ADITYABAMANE/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0206-reverse-linked-list](https://github.com/ADITYABAMANE/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ADITYABAMANE/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
@@ -905,6 +908,7 @@
 | [0101-symmetric-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ADITYABAMANE/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/ADITYABAMANE/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -944,6 +948,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ADITYABAMANE/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/ADITYABAMANE/Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/ADITYABAMANE/Leetcode/tree/master/0199-binary-tree-right-side-view) |
