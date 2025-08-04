@@ -66,6 +66,7 @@
 | [0870-magic-squares-in-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0875-longest-mountain-in-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0907-koko-eating-bananas](https://github.com/ADITYABAMANE/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/ADITYABAMANE/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1014-k-closest-points-to-origin](https://github.com/ADITYABAMANE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/ADITYABAMANE/Leetcode/tree/master/1036-rotting-oranges) |
@@ -400,6 +401,7 @@
 | [0239-sliding-window-maximum](https://github.com/ADITYABAMANE/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ADITYABAMANE/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0940-fruit-into-baskets](https://github.com/ADITYABAMANE/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ADITYABAMANE/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1733-maximum-number-of-visible-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ADITYABAMANE/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -431,6 +433,7 @@
 | [0778-reorganize-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/0778-reorganize-string) |
 | [0870-magic-squares-in-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/ADITYABAMANE/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [0940-fruit-into-baskets](https://github.com/ADITYABAMANE/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1487-cinema-seat-allocation](https://github.com/ADITYABAMANE/Leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/ADITYABAMANE/Leetcode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
