@@ -471,6 +471,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ADITYABAMANE/Leetcode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/ADITYABAMANE/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ADITYABAMANE/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ADITYABAMANE/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -509,6 +510,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ADITYABAMANE/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ADITYABAMANE/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/ADITYABAMANE/Leetcode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/0394-decode-string) |
 | [0654-maximum-binary-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/ADITYABAMANE/Leetcode/tree/master/0735-asteroid-collision) |
