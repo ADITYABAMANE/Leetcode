@@ -72,6 +72,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/ADITYABAMANE/Leetcode/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ADITYABAMANE/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/ADITYABAMANE/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1257-rank-transform-of-a-matrix](https://github.com/ADITYABAMANE/Leetcode/tree/master/1257-rank-transform-of-a-matrix) |
 | [1284-four-divisors](https://github.com/ADITYABAMANE/Leetcode/tree/master/1284-four-divisors) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ADITYABAMANE/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -390,6 +391,7 @@
 | [0658-find-k-closest-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/ADITYABAMANE/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ADITYABAMANE/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/ADITYABAMANE/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ADITYABAMANE/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
