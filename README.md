@@ -24,6 +24,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ADITYABAMANE/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ADITYABAMANE/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ADITYABAMANE/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ADITYABAMANE/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0090-subsets-ii) |
@@ -601,6 +602,7 @@
 | [0044-wildcard-matching](https://github.com/ADITYABAMANE/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/ADITYABAMANE/Leetcode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/ADITYABAMANE/Leetcode/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/ADITYABAMANE/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ADITYABAMANE/Leetcode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/ADITYABAMANE/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/ADITYABAMANE/Leetcode/tree/master/0125-valid-palindrome) |
@@ -847,6 +849,7 @@
 | [0063-unique-paths-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ADITYABAMANE/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ADITYABAMANE/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ADITYABAMANE/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ADITYABAMANE/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ADITYABAMANE/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ADITYABAMANE/Leetcode/tree/master/0733-flood-fill) |
@@ -877,6 +880,7 @@
 | [0039-combination-sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ADITYABAMANE/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ADITYABAMANE/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ADITYABAMANE/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/ADITYABAMANE/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0834-ambiguous-coordinates](https://github.com/ADITYABAMANE/Leetcode/tree/master/0834-ambiguous-coordinates) |
@@ -924,6 +928,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ADITYABAMANE/Leetcode/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ADITYABAMANE/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
