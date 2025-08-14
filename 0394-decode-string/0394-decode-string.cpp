@@ -8,7 +8,9 @@ public:
         for(int i=0;i<n;i++){
 
             if(s[i]==']'){
+
                 string temp="";
+
                 while(!st.empty() && st.top()!='['){
                     temp=st.top()+temp;
                     st.pop();
@@ -16,25 +18,29 @@ public:
                 if(!st.empty() && st.top()=='['){
                     st.pop();
                 }
-                string num="";
 
-                while(!st.empty() && isdigit(st.top())){
-                    num=st.top()+num;
+                //extracting the number;
+                string number="";
+                while(!st.empty() &&  isdigit(st.top())){
+                    number=st.top()+number;
                     st.pop();
-                }
-                int number=stoi(num);
 
-                // genarate repeated string;
+                }//created the number
+
+                //coverting the number from string tominteger
+
+                int num=stoi(number);
+                //creating the repeated string
+
                 string repeated="";
-
-                for(int i=0;i<number;i++){
+                for(int i=0;i<num;i++){
                     repeated=repeated+temp;
-
                 }
 
-                for(int i=0;i<repeated.size();i++){
+                //pushing the repeated string i have again into the stack;
+
+                for(int i=0;i<repeated.length();i++){
                     st.push(repeated[i]);
-                    
                 }
 
 
@@ -42,14 +48,18 @@ public:
             else{
                 st.push(s[i]);
             }
-        }
 
-        string ans="";
+
+
+
+
+        }
+        string res="";
         while(!st.empty()){
-            ans=st.top()+ans;
+            res=st.top()+res;
             st.pop();
         }
-        return ans;
+        return res;
         
     }
 };
