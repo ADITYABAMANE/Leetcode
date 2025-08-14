@@ -901,6 +901,7 @@
 | [0207-course-schedule](https://github.com/ADITYABAMANE/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ADITYABAMANE/Leetcode/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/ADITYABAMANE/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1257-rank-transform-of-a-matrix](https://github.com/ADITYABAMANE/Leetcode/tree/master/1257-rank-transform-of-a-matrix) |
 | [1696-strange-printer-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/1696-strange-printer-ii) |
 | [1727-cat-and-mouse-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/1727-cat-and-mouse-ii) |
@@ -946,6 +947,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ADITYABAMANE/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ADITYABAMANE/Leetcode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/ADITYABAMANE/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ADITYABAMANE/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/ADITYABAMANE/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/ADITYABAMANE/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -985,6 +987,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ADITYABAMANE/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ADITYABAMANE/Leetcode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/ADITYABAMANE/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/ADITYABAMANE/Leetcode/tree/master/1036-rotting-oranges) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/ADITYABAMANE/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1034,6 +1037,7 @@
 | [0200-number-of-islands](https://github.com/ADITYABAMANE/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ADITYABAMANE/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ADITYABAMANE/Leetcode/tree/master/0695-max-area-of-island) |
+| [0801-is-graph-bipartite](https://github.com/ADITYABAMANE/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1257-rank-transform-of-a-matrix](https://github.com/ADITYABAMANE/Leetcode/tree/master/1257-rank-transform-of-a-matrix) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ADITYABAMANE/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
