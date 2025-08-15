@@ -11,42 +11,35 @@
  */
 class Solution {
 public:
-vector<vector<int>>res;
-    void fill(TreeNode*node,int targetSum, vector<int>&temp,int sum){
-        if(!node)return ;
+    vector<vector<int>>res;
+    void fill(TreeNode* root, int targetSum,vector<int>temp,int sum){
+        if(!root)return ;
 
-        sum+=node->val;
+        sum+=root->val;
+        temp.push_back(root->val);
 
-
-
-
-
-        temp.push_back(node->val);
-        if(!node->left && !node->right){
+        if(!root->left && !root->right){
             if(sum==targetSum){
                 res.push_back(temp);
             }
-            
-
 
         }
-        fill(node->left,targetSum,temp,sum);
-        fill(node->right,targetSum,temp,sum);
+        fill(root->left,targetSum,temp,sum);
+        fill(root->right,targetSum,temp,sum);
+
 
 
         temp.pop_back();
 
-
-
-        
 
     }
 
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
         vector<int>temp;
         int sum=0;
-        fill(root,targetSum,temp,sum);
 
+
+        fill(root,targetSum,temp,sum);
         return res;
         
     }
