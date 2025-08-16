@@ -69,6 +69,7 @@
 | [0870-magic-squares-in-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0875-longest-mountain-in-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0907-koko-eating-bananas](https://github.com/ADITYABAMANE/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/ADITYABAMANE/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/ADITYABAMANE/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1014-k-closest-points-to-origin](https://github.com/ADITYABAMANE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -263,6 +264,7 @@
 | [0692-top-k-frequent-words](https://github.com/ADITYABAMANE/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/ADITYABAMANE/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [0917-boats-to-save-people](https://github.com/ADITYABAMANE/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/ADITYABAMANE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1257-rank-transform-of-a-matrix](https://github.com/ADITYABAMANE/Leetcode/tree/master/1257-rank-transform-of-a-matrix) |
@@ -373,6 +375,7 @@
 | [0658-find-k-closest-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0875-longest-mountain-in-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0875-longest-mountain-in-array) |
+| [0917-boats-to-save-people](https://github.com/ADITYABAMANE/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ADITYABAMANE/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -759,6 +762,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/0778-reorganize-string) |
+| [0917-boats-to-save-people](https://github.com/ADITYABAMANE/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1487-cinema-seat-allocation](https://github.com/ADITYABAMANE/Leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1489-pizza-with-3n-slices](https://github.com/ADITYABAMANE/Leetcode/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/ADITYABAMANE/Leetcode/tree/master/1503-reducing-dishes) |
