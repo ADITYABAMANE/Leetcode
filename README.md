@@ -65,6 +65,7 @@
 | [0735-asteroid-collision](https://github.com/ADITYABAMANE/Leetcode/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/ADITYABAMANE/Leetcode/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/ADITYABAMANE/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ADITYABAMANE/Leetcode/tree/master/0817-design-hashmap) |
 | [0870-magic-squares-in-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0875-longest-mountain-in-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0875-longest-mountain-in-array) |
@@ -446,6 +447,7 @@
 | [0525-contiguous-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0525-contiguous-array) |
 | [0692-top-k-frequent-words](https://github.com/ADITYABAMANE/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/0778-reorganize-string) |
+| [0816-design-hashset](https://github.com/ADITYABAMANE/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ADITYABAMANE/Leetcode/tree/master/0817-design-hashmap) |
 | [0870-magic-squares-in-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/ADITYABAMANE/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -487,6 +489,7 @@
 | [0155-min-stack](https://github.com/ADITYABAMANE/Leetcode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/ADITYABAMANE/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ADITYABAMANE/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0816-design-hashset](https://github.com/ADITYABAMANE/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ADITYABAMANE/Leetcode/tree/master/0817-design-hashmap) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ADITYABAMANE/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ADITYABAMANE/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -812,6 +815,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0206-reverse-linked-list](https://github.com/ADITYABAMANE/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ADITYABAMANE/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0816-design-hashset](https://github.com/ADITYABAMANE/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ADITYABAMANE/Leetcode/tree/master/0817-design-hashmap) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 ## Enumeration
@@ -1171,5 +1175,6 @@
 ## Hash Function
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/ADITYABAMANE/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ADITYABAMANE/Leetcode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
