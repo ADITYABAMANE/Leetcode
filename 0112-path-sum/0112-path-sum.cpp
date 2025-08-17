@@ -10,28 +10,34 @@
  * };
  */
 class Solution {
-    public:
-
-    bool inorder(TreeNode*root , int sum,int targetSum){
+public:
+    bool recursion(TreeNode*root,int targetSum,int sum){
         if(root==NULL)return false;
 
         sum+=root->val;
 
-        if(!root->right && !root->left){
-            if(sum==targetSum)return true;
+
+        if(!root->left && !root->right){
+            if(sum==targetSum){
+                return true;
+            }
             return false;
         }
-        bool leftsum=inorder(root->left,sum,targetSum);
-        bool rightsum=inorder(root->right,sum,targetSum);
+        bool leftsum=recursion(root->left,targetSum,sum);
+        bool rightsum=recursion(root->right,targetSum,sum);
 
         return leftsum|| rightsum;
-    }
+        
 
+
+
+    }
     bool hasPathSum(TreeNode* root, int targetSum) {
         int sum=0;
 
-        bool res=inorder(root,sum,targetSum);
-        return res; 
+        return recursion(root,targetSum,sum);
+
+
         
     }
 };
