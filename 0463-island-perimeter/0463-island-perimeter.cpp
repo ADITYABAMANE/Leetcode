@@ -11,10 +11,10 @@ public:
                 if(grid[i][j]==1){
                     p+=4;
 
-                    if(j>0 && grid[i][j-1]==1){
+                    if(j<m-1 && grid[i][j+1]==1){
                         p-=2;
                     }
-                    if(i<n-1 && grid[i+1][j]==1){
+                    if(i>0 && grid[i-1][j]==1){
                         p-=2;
 
                     }
