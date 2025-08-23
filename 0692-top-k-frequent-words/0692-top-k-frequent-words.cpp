@@ -2,25 +2,20 @@ class Solution {
 public:
     vector<string> topKFrequent(vector<string>& words, int k) {
         unordered_map<string, int> mp;
+        for (auto &w : words) mp[w]++;
 
-        for (const string& word : words) {
-            mp[word]++;
+        // min-heap: (-freq, word)
+        priority_queue<pair<int,string>, vector<pair<int,string>>, greater<pair<int,string>>> pq;
+
+        for (auto &it : mp) {
+            pq.push({-it.second, it.first});
         }
 
-        vector<pair<string, int>> freqVec(mp.begin(), mp.end());
-
-        sort(freqVec.begin(), freqVec.end(), [](const pair<string, int>& a, const pair<string, int>& b) {
-            if (a.second == b.second) {
-                return a.first < b.first;
-            }
-            return a.second > b.second;
-        });
-
-        vector<string> result;
-        for (int i = 0; i < k; ++i) {
-            result.push_back(freqVec[i].first);
+        vector<string> res;
+        while (k--) {
+            res.push_back(pq.top().second);
+            pq.pop();
         }
-
-        return result;
+        return res;
     }
 };
