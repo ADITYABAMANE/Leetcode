@@ -4,7 +4,7 @@ public:
         unordered_map<string, int> mp;
         for (auto &w : words) mp[w]++;
 
-        // min-heap: (-freq, word)
+        
         priority_queue<pair<int,string>, vector<pair<int,string>>, greater<pair<int,string>>> pq;
 
         for (auto &it : mp) {
