@@ -34,6 +34,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ADITYABAMANE/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ADITYABAMANE/Leetcode/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/ADITYABAMANE/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ADITYABAMANE/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/ADITYABAMANE/Leetcode/tree/master/0164-maximum-gap) |
@@ -441,6 +442,7 @@
 | [0127-word-ladder](https://github.com/ADITYABAMANE/Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/ADITYABAMANE/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ADITYABAMANE/Leetcode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/ADITYABAMANE/Leetcode/tree/master/0139-word-break) |
 | [0229-majority-element-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ADITYABAMANE/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ADITYABAMANE/Leetcode/tree/master/0268-missing-number) |
@@ -630,6 +632,7 @@
 | [0093-restore-ip-addresses](https://github.com/ADITYABAMANE/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/ADITYABAMANE/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/ADITYABAMANE/Leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/ADITYABAMANE/Leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/ADITYABAMANE/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ADITYABAMANE/Leetcode/tree/master/0392-is-subsequence) |
@@ -729,6 +732,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ADITYABAMANE/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/ADITYABAMANE/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ADITYABAMANE/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ADITYABAMANE/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0213-house-robber-ii) |
@@ -1061,12 +1065,14 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ADITYABAMANE/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/ADITYABAMANE/Leetcode/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/ADITYABAMANE/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ADITYABAMANE/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ADITYABAMANE/Leetcode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/ADITYABAMANE/Leetcode/tree/master/1013-fibonacci-number) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/ADITYABAMANE/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ADITYABAMANE/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
