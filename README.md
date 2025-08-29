@@ -60,6 +60,7 @@
 | [0518-coin-change-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0605-can-place-flowers](https://github.com/ADITYABAMANE/Leetcode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/ADITYABAMANE/Leetcode/tree/master/0654-maximum-binary-tree) |
@@ -775,6 +776,7 @@
 | [0055-jump-game](https://github.com/ADITYABAMANE/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/ADITYABAMANE/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0605-can-place-flowers](https://github.com/ADITYABAMANE/Leetcode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/0778-reorganize-string) |
