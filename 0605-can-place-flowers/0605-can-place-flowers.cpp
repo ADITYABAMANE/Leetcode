@@ -10,6 +10,7 @@ public:
                 if(right&&left){
                     flowerbed[i]=1;
                     n--;
+                    i++;
                     
                 }
             }
