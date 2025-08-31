@@ -285,6 +285,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ADITYABAMANE/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1733-maximum-number-of-visible-points](https://github.com/ADITYABAMANE/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
 | [1752-arithmetic-subarrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1752-arithmetic-subarrays) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ADITYABAMANE/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1788-stone-game-vi](https://github.com/ADITYABAMANE/Leetcode/tree/master/1788-stone-game-vi) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
@@ -470,6 +471,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/ADITYABAMANE/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1752-arithmetic-subarrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1752-arithmetic-subarrays) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ADITYABAMANE/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ADITYABAMANE/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2122-count-special-quadruplets](https://github.com/ADITYABAMANE/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ADITYABAMANE/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -655,6 +657,7 @@
 | [1524-string-matching-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/ADITYABAMANE/Leetcode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ADITYABAMANE/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ADITYABAMANE/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1894-merge-strings-alternately](https://github.com/ADITYABAMANE/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ADITYABAMANE/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/ADITYABAMANE/Leetcode/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
@@ -789,6 +792,7 @@
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/ADITYABAMANE/Leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/ADITYABAMANE/Leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ADITYABAMANE/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ADITYABAMANE/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1788-stone-game-vi](https://github.com/ADITYABAMANE/Leetcode/tree/master/1788-stone-game-vi) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ADITYABAMANE/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
