@@ -4,7 +4,7 @@ public:
         int n=g.size();
         int m=s.size();
         vector<bool>vis(g.size(),false);
-        int cnt=0;
+        // int cnt=0;
         sort(g.begin(),g.end());
         sort(s.begin(),s.end());
 
@@ -21,13 +21,13 @@ public:
 
             if(cookie_size>=g[i]){
                 i++;
-                cnt++;
+                // cnt++;
             }
             j++;
 
 
         }
-        return cnt;
+        return i;
 
 
 
