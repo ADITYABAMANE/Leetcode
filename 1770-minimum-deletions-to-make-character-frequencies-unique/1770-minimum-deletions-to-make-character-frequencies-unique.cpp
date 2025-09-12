@@ -3,34 +3,38 @@ public:
     int minDeletions(string s) {
         map<char,int>mp;
         set<int>st;
-        for(int i=0;i<s.length();i++){
+
+        int n=s.length();
+
+        for(int i=0;i<n;i++){
             mp[s[i]]++;
 
         }
-        int res=0;
+        int ans=0;
+
         for(auto it:mp){
 
-        int freq=it.second;
-
-        while( freq > 0 && st.count(freq)  ){
-
-            
-            freq--;
-            res++;
+            int freq=it.second;
 
 
-        }  
-        if(freq>0){
-            st.insert(freq);
-        }         
+            while(freq>0 && st.count(freq)){
+                freq--;
+                ans++;
+
+
+            }
+
+            if(freq>0){
+                st.insert(freq);
+
+            }
 
         }
-        return res;
+
+        return ans;
 
 
 
-
-        
         
     }
 };
