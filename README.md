@@ -89,6 +89,7 @@
 | [1257-rank-transform-of-a-matrix](https://github.com/ADITYABAMANE/Leetcode/tree/master/1257-rank-transform-of-a-matrix) |
 | [1284-four-divisors](https://github.com/ADITYABAMANE/Leetcode/tree/master/1284-four-divisors) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ADITYABAMANE/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/ADITYABAMANE/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ADITYABAMANE/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1487-cinema-seat-allocation](https://github.com/ADITYABAMANE/Leetcode/tree/master/1487-cinema-seat-allocation) |
@@ -523,6 +524,7 @@
 | [0692-top-k-frequent-words](https://github.com/ADITYABAMANE/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/ADITYABAMANE/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1396-count-servers-that-communicate](https://github.com/ADITYABAMANE/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ADITYABAMANE/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ADITYABAMANE/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
@@ -908,6 +910,7 @@
 | [0870-magic-squares-in-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1036-rotting-oranges](https://github.com/ADITYABAMANE/Leetcode/tree/master/1036-rotting-oranges) |
 | [1257-rank-transform-of-a-matrix](https://github.com/ADITYABAMANE/Leetcode/tree/master/1257-rank-transform-of-a-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/ADITYABAMANE/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/ADITYABAMANE/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1696-strange-printer-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/1696-strange-printer-ii) |
@@ -1007,6 +1010,7 @@
 | [0733-flood-fill](https://github.com/ADITYABAMANE/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/ADITYABAMANE/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ADITYABAMANE/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/ADITYABAMANE/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/ADITYABAMANE/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/ADITYABAMANE/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1050,6 +1054,7 @@
 | [0733-flood-fill](https://github.com/ADITYABAMANE/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/ADITYABAMANE/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/ADITYABAMANE/Leetcode/tree/master/1036-rotting-oranges) |
+| [1396-count-servers-that-communicate](https://github.com/ADITYABAMANE/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/ADITYABAMANE/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2035-count-sub-islands](https://github.com/ADITYABAMANE/Leetcode/tree/master/2035-count-sub-islands) |
@@ -1103,6 +1108,7 @@
 | [0695-max-area-of-island](https://github.com/ADITYABAMANE/Leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/ADITYABAMANE/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1257-rank-transform-of-a-matrix](https://github.com/ADITYABAMANE/Leetcode/tree/master/1257-rank-transform-of-a-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/ADITYABAMANE/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ADITYABAMANE/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ADITYABAMANE/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2035-count-sub-islands](https://github.com/ADITYABAMANE/Leetcode/tree/master/2035-count-sub-islands) |
