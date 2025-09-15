@@ -6,6 +6,7 @@ public:
 
         vector<int>row_cnt(n,0);
         vector<int>col_cnt(m,0);
+        
 
         int total_servers=0;
         for(int i=0;i<n;i++){
