@@ -13,7 +13,7 @@ public:
             temp.push_back((nums[i]+nums[i+1]) % 10);
 
         }
-        nums=move(temp);
+        nums=temp;
         
     }
     return nums[0];
