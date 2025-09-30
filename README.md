@@ -138,6 +138,7 @@
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/ADITYABAMANE/Leetcode/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ADITYABAMANE/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2330-maximum-total-beauty-of-the-gardens](https://github.com/ADITYABAMANE/Leetcode/tree/master/2330-maximum-total-beauty-of-the-gardens) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ADITYABAMANE/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ADITYABAMANE/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -229,6 +230,7 @@
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/ADITYABAMANE/Leetcode/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ADITYABAMANE/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2873-prime-pairs-with-target-sum](https://github.com/ADITYABAMANE/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/ADITYABAMANE/Leetcode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3199-distribute-candies-among-children-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
@@ -723,6 +725,7 @@
 | [1525-queries-on-a-permutation-with-key](https://github.com/ADITYABAMANE/Leetcode/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/ADITYABAMANE/Leetcode/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
 | [1806-count-of-matches-in-tournament](https://github.com/ADITYABAMANE/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ADITYABAMANE/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2470-removing-stars-from-a-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ADITYABAMANE/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -1176,6 +1179,7 @@
 | [1836-count-ways-to-make-array-with-product](https://github.com/ADITYABAMANE/Leetcode/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1941-minimum-number-of-operations-to-make-string-sorted](https://github.com/ADITYABAMANE/Leetcode/tree/master/1941-minimum-number-of-operations-to-make-string-sorted) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ADITYABAMANE/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3199-distribute-candies-among-children-i](https://github.com/ADITYABAMANE/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3783-permutations-iv](https://github.com/ADITYABAMANE/Leetcode/tree/master/3783-permutations-iv) |
