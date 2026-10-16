@@ -61,6 +61,7 @@
 | [0518-coin-change-ii](https://github.com/ADITYABAMANE/Leetcode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/ADITYABAMANE/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/ADITYABAMANE/Leetcode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ADITYABAMANE/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -466,6 +467,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ADITYABAMANE/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/ADITYABAMANE/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/ADITYABAMANE/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/ADITYABAMANE/Leetcode/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/ADITYABAMANE/Leetcode/tree/master/0816-design-hashset) |
@@ -1148,6 +1150,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ADITYABAMANE/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/ADITYABAMANE/Leetcode/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/ADITYABAMANE/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/ADITYABAMANE/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ADITYABAMANE/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/ADITYABAMANE/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
